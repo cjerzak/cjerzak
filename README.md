@@ -7,7 +7,7 @@ Assistant Professor at the University of Texas at Austin. Current research agend
 
 [[CV]](https://connorjerzak.com/bio-cv/) [[UT Profile]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en)
 
-## Papers 
+## Recent Papers 
 [[Global Causal Inference]](https://arxiv.org/pdf/2301.12985.pdf)
 
 [[Image-based Treatment Effect Heterogeneity]](https://arxiv.org/pdf/2206.06417.pdf)
