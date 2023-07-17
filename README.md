@@ -8,7 +8,9 @@
 
 # Papers 
 [[Global Causal Inference](https://arxiv.org/pdf/2301.12985.pdf)
+
 [[Image-based Treatment Effect Heterogeneity]](https://arxiv.org/pdf/2206.06417.pdf)
+
 [[Non-parametric Content Analysis]](https://www.cambridge.org/core/journals/political-analysis/article/abs/an-improved-method-of-automated-nonparametric-content-analysis-for-social-science/D3C7441B17313F6E33A7BF2E781B5086)
 [[Linking Datasets on Organizations Using Half A Billion Open Collaborated Records]](https://arxiv.org/abs/2302.02533)
 [[The Composition of Descriptive Representation]](https://osf.io/preprints/socarxiv/9hqnp)
