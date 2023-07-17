@@ -20,4 +20,4 @@ Assistant Professor at the University of Texas at Austin. Current research agend
 
 [[Impact of a Transportation Intervention on Electoral Politics: Evidence from E-ZPass]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf)
 
-For more information, see [connorjerzak.com/research](https://connorjerzak.com/research/)
+For more information, see [[ConnorJerzak.com/research]](https://connorjerzak.com/research/)
