@@ -5,7 +5,7 @@
 ## Bio
 Master's in Statistics, Ph.D. in Government from Harvard University. 
 
-Currently, Assistant Professor at the University of Texas at Austin. <img src="https://connorjerzak.com/wp-content/uploads/2023/02/linkorgs.png" width="25" height="25">
+Currently, Assistant Professor at the University of Texas at Austin. <img src="https://connorjerzak.com/wp-content/uploads/2023/07/Screenshot-2023-07-17-at-11.50.01-AM.png" width="30" height="30">
 
 https://connorjerzak.com/wp-content/uploads/2023/07/Screenshot-2023-07-17-at-11.50.01-AM.png
 
