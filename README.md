@@ -5,11 +5,11 @@
 ## Bio
 Master's in Statistics, Ph.D. in Government from Harvard University. 
 
-Currently, Assistant Professor at the University of Texas at Austin. [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) 
+Currently, Assistant Professor at the University of Texas at Austin. 
 
 Research agenda concerns the use of earth observation data for causal inference, adversarial dynamics, organizational record linkage, as well as questions in political economy and descriptive representation. 
 
-[[CV]](https://connorjerzak.com/bio-cv/) [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en)
+[[CV]](https://connorjerzak.com/bio-cv/) [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) 
 
 ## Recent Papers 
 [[Global Causal Inference]](https://arxiv.org/pdf/2301.12985.pdf) [[Code]](https://github.com/cjerzak/causalimages-software)
