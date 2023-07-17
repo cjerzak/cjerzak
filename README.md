@@ -3,7 +3,7 @@
 -->
 
 ## Bio
-Master's in Statistics, Ph.D. in Government from Harvard University. 
+Past: Master's in Statistics, Ph.D. in Government from Harvard University. 
 
 Currently, Assistant Professor at the University of Texas at Austin. 
 
