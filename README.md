@@ -7,8 +7,6 @@ Master's in Statistics, Ph.D. in Government from Harvard University.
 
 Currently, Assistant Professor at the University of Texas at Austin. 
 
-https://connorjerzak.com/wp-content/uploads/2023/07/Screenshot-2023-07-17-at-11.50.01-AM.png
-
 Research agenda concerns the use of earth observation data for causal inference, adversarial dynamics, organizational record linkage, as well as questions in political economy and descriptive representation. 
 
 [[CV]](https://connorjerzak.com/bio-cv/) [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) 
