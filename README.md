@@ -22,7 +22,7 @@ Research agenda concerns the use of earth observation data for causal inference,
 
 [[The Composition of Descriptive Representation]](https://osf.io/preprints/socarxiv/9hqnp) [[Code]](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software)
 
-[[Impact of a Transportation Intervention on Electoral Politics: Evidence from E-ZPass]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf)
+[[Housing Values and Partisanship: Evidence from E-ZPass]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf)
 
 For more information, see [[ConnorJerzak.com/research]](https://connorjerzak.com/research/)
 
