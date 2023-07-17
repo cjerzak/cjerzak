@@ -28,5 +28,5 @@ Research agenda concerns the use of earth observation data for causal inference,
 
 For more information, see [[ConnorJerzak.com/research]](https://connorjerzak.com/research/)
 
-<img src="https://connorjerzak.com/wp-content/uploads/2023/07/Screenshot-2023-07-17-at-11.50.01-AM.png" width="120" height="100">
+<img src="https://connorjerzak.com/wp-content/uploads/2023/07/Screenshot-2023-07-17-at-11.50.01-AM.png" width="110" height="100">
 
