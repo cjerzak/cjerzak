@@ -26,5 +26,5 @@
 
 For more information, see [[ConnorJerzak.com/research]](https://connorjerzak.com/research/)
 
-[<img src="https://connorjerzak.com/wp-content/uploads/2023/07/Screenshot-2023-07-17-at-11.50.01-AM.png" width="210" height="200">](https://www.utexas.edu/)
+[<img src="https://connorjerzak.com/wp-content/uploads/2023/07/Screenshot-2023-07-17-at-11.50.01-AM.png" width="220" height="200">](https://www.utexas.edu/)
 
