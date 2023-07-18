@@ -2,7 +2,7 @@
 **cjerzak/cjerzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## About
+## Bio
 *Past:* Master's in Statistics, Ph.D. in Government from Harvard University. 
 
 *Current:* Assistant Professor at the University of Texas at Austin. 
