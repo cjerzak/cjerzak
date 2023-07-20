@@ -7,7 +7,8 @@
 
 *Current:* Assistant Professor at the University of Texas at Austin. 
 
-*Research agenda:* Use of earth observation data for causal inference, adversarial dynamics, organizational record linkage, substantive questions in political economy, social movements, and descriptive representation. 
+*Research agenda* 
+**Methodological:** Use of earth observation data for causal inference, AI and global development, adversarial dynamics, and organizational record linkage. **Substantive:** substantive questions in political economy, social movements, and descriptive representation. 
 
 [[CV]](https://connorjerzak.com/bio-cv/) [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) 
 
