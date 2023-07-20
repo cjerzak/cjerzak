@@ -10,6 +10,7 @@
 *Research agenda:* Use of earth observation data for causal inference, adversarial dynamics, organizational record linkage, as well as questions in political economy and descriptive representation. 
 
 [[CV]](https://connorjerzak.com/bio-cv/) [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) 
+
 [[AI & Global Development Lab GitHub]](https://github.com/AIandGlobalDevelopmentLab)
 
 ## Recent Papers 
