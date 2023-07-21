@@ -4,6 +4,7 @@
 
 ## Bio + CV
 *Past:* Master's in Statistics, Ph.D. in Government from Harvard University.
+
 *Current:* Assistant Professor at the University of Texas at Austin. 
 
 *Methodological research:* Earth observation data for causal inference, AI and global development, adversarial dynamics, organizational record linkage. 
