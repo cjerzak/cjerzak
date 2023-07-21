@@ -7,9 +7,9 @@
 
 *Current:* Assistant Professor at the University of Texas at Austin. 
 
-*Methodological research:* Use of earth observation data for causal inference, AI and global development, adversarial dynamics, and organizational record linkage. 
+*Methodological research:* Use of earth observation data for causal inference, AI and global development, adversarial dynamics, organizational record linkage. 
 
-*Substantive research:* Questions in political economy, social movements, and descriptive representation. 
+*Substantive research:* Questions in political economy, social movements, descriptive representation. 
 
 [[CV]](https://connorjerzak.com/wp-content/uploads/2023/01/ConnorJerzakCV.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) 
 
