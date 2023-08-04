@@ -16,7 +16,7 @@
 [[AI & Global Development Lab GitHub]](https://github.com/AIandGlobalDevelopmentLab/)
 
 ## Recent Papers 
-[[Global Causal Inference]](https://arxiv.org/pdf/2301.12985.pdf) [[Code]](https://github.com/cjerzak/causalimages-software)
+[[Global Causal Inference]](https://arxiv.org/pdf/2301.12985.pdf) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/causalimages-software)
 
 [[Image-based Treatment Effect Heterogeneity]](https://arxiv.org/pdf/2206.06417.pdf) [[Code]](https://github.com/cjerzak/causalimages-software)
 
