@@ -20,7 +20,7 @@
 
 [[Image-based Treatment Effect Heterogeneity]](https://arxiv.org/pdf/2206.06417.pdf) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
-[[Non-parametric Content Analysis]](https://www.cambridge.org/core/journals/political-analysis/article/abs/an-improved-method-of-automated-nonparametric-content-analysis-for-social-science/D3C7441B17313F6E33A7BF2E781B5086) [[Code]](https://github.com/iqss-research/readme-software) [![GitHub Repo stars](https://img.shields.io/github/stars/iqss-research/readme-software?style=social)](https://github.com/iqss-research/readme-software)
+[[Non-parametric Content Analysis]](https://gking.harvard.edu/sites/scholar.harvard.edu/files/gking/files/div-class-title-an-improved-method-of-automated-nonparametric-content-analysis-for-social-science-div.pdf) [[Code]](https://github.com/iqss-research/readme-software) [![GitHub Repo stars](https://img.shields.io/github/stars/iqss-research/readme-software?style=social)](https://github.com/iqss-research/readme-software)
 
 [[Linking Datasets on Organizations Using Half A Billion Open Collaborated Records]](https://arxiv.org/abs/2302.02533) [[Code]](https://github.com/cjerzak/LinkOrgs-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/LinkOrgs-software?style=social)](https://github.com/cjerzak/LinkOrgs-software)
 
