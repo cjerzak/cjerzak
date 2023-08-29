@@ -2,7 +2,7 @@
 **cjerzak/cjerzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-UT Austin is hiring in quantitative methods (tenure-track). [Apply before September 15th!](https://apply.interfolio.com/129911)
+*Note: UT Austin is hiring in quantitative methods (tenure-track). [Apply before September 15th!](https://apply.interfolio.com/129911)*
 
 ## Bio + CV
 *Past:* Master's in Statistics, Ph.D. in Government from Harvard University.
