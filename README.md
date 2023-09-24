@@ -11,7 +11,7 @@
 
 *Substantive research:* Questions in political economy, social movements, descriptive representation. 
 
-[[CV]](https://connorjerzak.com/wp-content/uploads/2023/01/ConnorJerzakCV.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) [[Twitter]](https://twitter.com/JerzakConnor) [[Academic Website]](https://connorjerzak.com)
+[[CV]](https://connorjerzak.com/wp-content/uploads/2023/01/ConnorJerzakCV.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) [[Twitter]](https://twitter.com/JerzakConnor) [[Academic Website]](https://connorjerzak.com) [[Huggingface]](https://huggingface.co/cjerzak)
 
 [[AI & Global Development Lab GitHub]](https://github.com/AIandGlobalDevelopmentLab/) 
 
