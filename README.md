@@ -11,13 +11,15 @@
 
 *Substantive research:* Questions in political economy, social movements, descriptive representation. 
 
-[[CV]](https://connorjerzak.com/wp-content/uploads/2023/01/ConnorJerzakCV.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) [[Twitter]](https://twitter.com/JerzakConnor) [[Academic Website]](https://connorjerzak.com) [[Hugging Face]](https://huggingface.co/cjerzak)
+[[CV]](https://connorjerzak.com/wp-content/uploads/2023/01/ConnorJerzakCV.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) [[Twitter]](https://twitter.com/JerzakConnor) [[Academic Website]](https://connorjerzak.com)
 
 [[AI & Global Development Lab GitHub]](https://github.com/AIandGlobalDevelopmentLab/) 
 
 [[Data Assets]](https://connorjerzak.com/data/) 
 
 [[YouTube Tutorials]](https://www.youtube.com/channel/UCLwTj8390CoodCAh9zVnjhA)
+
+[[Hugging Face]](https://huggingface.co/cjerzak)
 
 ## Recent Papers 
 [[Global Causal Inference]](https://arxiv.org/pdf/2301.12985.pdf) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
