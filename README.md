@@ -30,7 +30,7 @@
 
 [[The Composition of Descriptive Representation]](https://www.cambridge.org/core/journals/american-political-science-review/article/composition-of-descriptive-representation/7EAEA1CA4C553AB9D76054D1FA9C0840) [[Code]](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/DescriptiveRepresentationCalculator-software?style=social)](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software)
 
-[[Ultra-fast Rerandomization]](https://github.com/cjerzak/fastrerandomize-software) [[Code]](https://github.com/cjerzak/fastrerandomize-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/fastrerandomize-software?style=social)](https://github.com/cjerzak/fastrerandomize-software)
+[[Degrees of Randomness in Rerandomization Procedures]](https://arxiv.org/abs/2310.00861) [[Code]](https://github.com/cjerzak/fastrerandomize-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/fastrerandomize-software?style=social)](https://github.com/cjerzak/fastrerandomize-software)
 
 [[Housing Values and Partisanship: Evidence from E-ZPass]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf)
 
