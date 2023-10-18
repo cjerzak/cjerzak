@@ -7,7 +7,7 @@
 
 *Current:* Assistant Professor at the University of Texas at Austin. 
 
-*Methodological research:* Earth observation data for causal inference, AI and global development, adversarial dynamics, organizational record linkage. 
+*Methodological research:* Earth observation data for causal inference, AI and global development, adversarial dynamics, computational text analysis. 
 
 *Substantive research:* Political economy, social movements, descriptive representation. 
 
