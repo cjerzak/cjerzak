@@ -3,7 +3,7 @@
 -->
 
 ## Bio + CV
-*Past:* Master's in Statistics, Ph.D. in Government from Harvard University.
+*Past:* Master's in Statistics (2020), Ph.D. in Government (2021) from Harvard University.
 
 *Current:* Assistant Professor at the University of Texas at Austin. 
 
