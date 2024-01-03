@@ -34,9 +34,9 @@
 
 [[Housing Values and Partisanship: Evidence from E-ZPass]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf)
 
-Primary package frontend: [`R`](https://en.wikipedia.org/wiki/R_(programming_language))
+Primary package frontend: [R](https://en.wikipedia.org/wiki/R_(programming_language))
 
-Primary package backend: [`JAX`](https://en.wikipedia.org/wiki/Google_JAX)
+Primary package backend: [JAX](https://en.wikipedia.org/wiki/Google_JAX)
 
 For more information, see [ConnorJerzak.com/research](https://connorjerzak.com/research/).
 
