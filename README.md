@@ -19,10 +19,6 @@
 
 [[YouTube Tutorials]](https://www.youtube.com/channel/UCLwTj8390CoodCAh9zVnjhA) [[Hugging Face]](https://huggingface.co/cjerzak)
 
-Primary package frontend: [`R`](https://en.wikipedia.org/wiki/R_(programming_language))
-
-Primary package backend: [`JAX`](https://en.wikipedia.org/wiki/Google_JAX)
-
 ## Recent Papers & Code
 [[Global Causal Inference]](https://arxiv.org/pdf/2301.12985.pdf) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
@@ -37,6 +33,10 @@ Primary package backend: [`JAX`](https://en.wikipedia.org/wiki/Google_JAX)
 [[Degrees of Randomness in Rerandomization Procedures]](https://arxiv.org/abs/2310.00861) [[Code]](https://github.com/cjerzak/fastrerandomize-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/fastrerandomize-software?style=social)](https://github.com/cjerzak/fastrerandomize-software)
 
 [[Housing Values and Partisanship: Evidence from E-ZPass]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf)
+
+Primary package frontend: [`R`](https://en.wikipedia.org/wiki/R_(programming_language))
+
+Primary package backend: [`JAX`](https://en.wikipedia.org/wiki/Google_JAX)
 
 For more information, see [ConnorJerzak.com/research](https://connorjerzak.com/research/).
 
