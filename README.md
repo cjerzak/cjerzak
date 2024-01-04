@@ -3,9 +3,7 @@
 -->
 
 ## Bio + CV
-*Past:* Master's in Statistics (2020), Ph.D. in Government (2021) from Harvard University.
-
-*Since 2022:* Assistant Professor at the University of Texas at Austin. 
+*Role:* Assistant Professor at the University of Texas at Austin. 
 
 *Methodological research:*  AI and global development, earth observation data for causal inference, adversarial dynamics, computational text analysis. 
 
