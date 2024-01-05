@@ -3,7 +3,7 @@
 -->
 
 ## Bio + CV
-**Assistant Professor** at the University of Texas at Austin.
+*Main affiliation:* Assistant Professor at the University of Texas at Austin.
 
 *Methodological research:*  AI and global development, earth observation data for causal inference, adversarial dynamics, computational text analysis. 
 
