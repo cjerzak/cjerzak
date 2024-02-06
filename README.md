@@ -7,7 +7,7 @@
 
 *Consulting role:* Institute for Health Metrics & Evaluation (IHME), University of Washington.
 
-*Main affiliation:* Assistant Professor in the Department of Government at the University of Texas at Austin.
+*Primary affiliation:* Assistant Professor in the Department of Government at the University of Texas at Austin.
 
 *Methodological research:*  AI and global development, earth observation data for causal inference, adversarial dynamics, computational text analysis. 
 
