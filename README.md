@@ -5,7 +5,7 @@
 ## Bio + CV
 *Primary affiliation:* Assistant Professor in the Department of Government at the University of Texas at Austin.
 
-*Visiting affiliation:* Visiting Assistant Professor in the Department of Government at the Harvard University.
+*Visiting affiliation:* Visiting Assistant Professor in the Department of Government at Harvard University.
 
 *Consulting role:* Institute for Health Metrics & Evaluation (IHME), University of Washington.
 
