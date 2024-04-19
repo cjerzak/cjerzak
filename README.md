@@ -36,7 +36,7 @@
 
 [[Housing Values and Partisanship: Evidence from E-ZPass]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf)
 
-More: [ConnorJerzak.com/research](https://connorjerzak.com/research/)
+More: [ConnorJerzak.com/Research](https://connorjerzak.com/research/)
 
 <!-- 
 [<img src="https://connorjerzak.com/wp-content/uploads/2023/07/Screenshot-2023-07-17-at-11.50.01-AM.png" width="220" height="200">](https://www.utexas.edu/) [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2023/07/CJerzak.jpg?resize=768%2C806&ssl=1" width="195" height="200">](https://connorjerzak.com/)
