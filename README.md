@@ -22,7 +22,7 @@
 [[YouTube Tutorials]](https://www.youtube.com/channel/UCLwTj8390CoodCAh9zVnjhA) [[Hugging Face]](https://huggingface.co/cjerzak)
 
 ## Papers & Code
-[[Planetary Causal Inference: Implications for the Geography of Poverty ]](https://osf.io/vrw6d) [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/eo-poverty-review?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
+[[Planetary Causal Inference: Implications for the Geography of Poverty]](https://osf.io/vrw6d) [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/eo-poverty-review?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
 
 [[Satellite Image De-confounding]](https://arxiv.org/pdf/2301.12985.pdf) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
