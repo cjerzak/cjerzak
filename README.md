@@ -22,7 +22,9 @@
 [[YouTube Tutorials]](https://www.youtube.com/channel/UCLwTj8390CoodCAh9zVnjhA) [[Hugging Face]](https://huggingface.co/cjerzak)
 
 ## Papers & Code
-[[Global Causal Inference]](https://arxiv.org/pdf/2301.12985.pdf) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
+[[Planetary Causal Inference: Implications for the Geography of Poverty ]](https://osf.io/vrw6d) [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
+
+[[Image De-confounding]](https://arxiv.org/pdf/2301.12985.pdf) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
 [[Can Large Language Models (or Humans) Disentangle Text Features?]](https://arxiv.org/pdf/2403.16584.pdf) [[Code]](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/TextDisentanglement?style=social)](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement)
 
