@@ -15,13 +15,9 @@
 
 [[CV]](https://connorjerzak.com/wp-content/uploads/2023/01/ConnorJerzakCV.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) [[Academic Website]](https://connorjerzak.com)
 
-[[AI & Global Development Lab GitHub]](https://github.com/AIandGlobalDevelopmentLab/) 
+[[Team]](https://connorjerzak.com/collaborators/) [[Students]](https://connorjerzak.com/students/) [[AI & Global Development Lab GitHub]](https://github.com/AIandGlobalDevelopmentLab/) 
 
-[[Data Assets]](https://connorjerzak.com/data/) 
-
-[[YouTube Tutorials]](https://www.youtube.com/channel/UCLwTj8390CoodCAh9zVnjhA) [[Hugging Face]](https://huggingface.co/cjerzak)
-
-[[Team]](https://connorjerzak.com/collaborators/)
+[[Data Assets]](https://connorjerzak.com/data/) [[YouTube Tutorials]](https://www.youtube.com/channel/UCLwTj8390CoodCAh9zVnjhA) [[Hugging Face]](https://huggingface.co/cjerzak)
 
 ## Papers & Code
 [[Planetary Causal Inference: Implications for the Geography of Poverty]](https://arxiv.org/abs/2406.02584) [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/eo-poverty-review?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
