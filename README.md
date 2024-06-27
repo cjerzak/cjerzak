@@ -24,6 +24,7 @@
 [[YouTube Tutorials]](https://www.youtube.com/channel/UCLwTj8390CoodCAh9zVnjhA) [[Data Assets]](https://connorjerzak.com/data/)
 
 ## Papers & Code
+### Methodological
 [[Planetary Causal Inference: Implications for the Geography of Poverty]](https://arxiv.org/abs/2406.02584) [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/eo-poverty-review?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
 
 [[Image De-confounding]](https://arxiv.org/pdf/2301.12985.pdf) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
@@ -36,9 +37,13 @@
 
 [[Linking Datasets on Organizations Using Half A Billion Open Collaborated Records]](https://arxiv.org/abs/2302.02533) [[Code]](https://github.com/cjerzak/LinkOrgs-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/LinkOrgs-software?style=social)](https://github.com/cjerzak/LinkOrgs-software)
 
-[[The Composition of Descriptive Representation]](https://www.cambridge.org/core/journals/american-political-science-review/article/composition-of-descriptive-representation/7EAEA1CA4C553AB9D76054D1FA9C0840) [[Code]](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/DescriptiveRepresentationCalculator-software?style=social)](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software)
-
 [[Degrees of Randomness in Rerandomization Procedures]](https://arxiv.org/abs/2310.00861) [[Code]](https://github.com/cjerzak/fastrerandomize-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/fastrerandomize-software?style=social)](https://github.com/cjerzak/fastrerandomize-software)
+
+### Substantive
+
+[[Where Minorities are the Majority: Electoral Rules and Ethnic Representation]](https://osf.io/preprints/osf/ums8y)
+
+[[The Composition of Descriptive Representation]](https://www.cambridge.org/core/journals/american-political-science-review/article/composition-of-descriptive-representation/7EAEA1CA4C553AB9D76054D1FA9C0840) [[Code]](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/DescriptiveRepresentationCalculator-software?style=social)](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software)
 
 [[Housing Values and Partisanship: Evidence from E-ZPass]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf)
 
