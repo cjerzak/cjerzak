@@ -29,7 +29,7 @@
 
 [[Image De-confounding]](https://arxiv.org/pdf/2301.12985.pdf) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
-[[Can Large Language Models (or Humans) Disentangle Text Features?]](https://arxiv.org/pdf/2403.16584.pdf) [[Code]](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/TextDisentanglement?style=social)](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement)
+[[Can Large Language Models (or Humans) Disentangle Text Features?]](https://aclanthology.org/2024.nlpcss-1.5/) [[Code]](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/TextDisentanglement?style=social)](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement)
 
 [[Image-based Treatment Effect Heterogeneity]](https://arxiv.org/pdf/2206.06417.pdf) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
