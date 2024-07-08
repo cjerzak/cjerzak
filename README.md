@@ -3,11 +3,14 @@
 -->
 
 ## Bio + CV
-*Primary affiliation:* Assistant Professor in the Department of Government at the University of Texas at Austin.
+*Present:* 
+[1.] Assistant Professor in the Department of Government at the University of Texas at Austin.
+[2.] Consultant, Institute for Health Metrics & Evaluation (IHME), University of Washington.
 
-*Visiting affiliation:* Visiting Assistant Professor in the Department of Government at Harvard University.
+*Past:* 
+[1.] Visiting Assistant Professor in the Department of Government at Harvard University.
+[2.] Postdoc, AI & Global Development Lab 
 
-*Consulting role:* Institute for Health Metrics & Evaluation (IHME), University of Washington.
 
 *Methodological research:*  AI and global development, earth observation data for causal inference, adversarial dynamics, computational text analysis. 
 
