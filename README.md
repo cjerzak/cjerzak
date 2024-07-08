@@ -8,8 +8,8 @@
 [2.] Consultant, Institute for Health Metrics & Evaluation (IHME), University of Washington.
 
 *Past:* <br>
-[1.] Visiting Assistant Professor in the Department of Government at Harvard University.<br>
-[2.] Postdoc, AI & Global Development Lab 
+[1.] Visiting Assistant Professor in the Department of Government at Harvard University (2024). <br>
+[2.] Postdoc, AI & Global Development Lab (2021-2022).
 
 
 *Methodological research:*  AI and global development, earth observation data for causal inference, adversarial dynamics, computational text analysis. 
