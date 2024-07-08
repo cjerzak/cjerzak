@@ -3,11 +3,11 @@
 -->
 
 ## Bio + CV
-*Present:* 
+*Present:* <br>
 [1.] Assistant Professor in the Department of Government at the University of Texas at Austin.
 [2.] Consultant, Institute for Health Metrics & Evaluation (IHME), University of Washington.
 
-*Past:* 
+*Past:* <br>
 [1.] Visiting Assistant Professor in the Department of Government at Harvard University.
 [2.] Postdoc, AI & Global Development Lab 
 
