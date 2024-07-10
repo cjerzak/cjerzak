@@ -28,27 +28,27 @@
 
 ## Papers & Code
 ### Methodological
-[[Planetary Causal Inference: Implications for the Geography of Poverty]](https://arxiv.org/abs/2406.02584) [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/eo-poverty-review?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
+[[Planetary Causal Inference: Implications for the Geography of Poverty]](https://arxiv.org/abs/2406.02584) [[.bib]]() [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/eo-poverty-review?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
 
-[[Image De-confounding]](https://arxiv.org/pdf/2301.12985.pdf) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
+[[Image De-confounding]](https://arxiv.org/pdf/2301.12985.pdf) [[.bib]]() [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
-[[Can Large Language Models (or Humans) Disentangle Text Features?]](https://aclanthology.org/2024.nlpcss-1.5/) [[Code]](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/TextDisentanglement?style=social)](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement)
+[[Can Large Language Models (or Humans) Disentangle Text Features?]](https://aclanthology.org/2024.nlpcss-1.5/) [[.bib]]() [[Code]](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/TextDisentanglement?style=social)](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement)
 
-[[Image-based Treatment Effect Heterogeneity]](https://arxiv.org/pdf/2206.06417.pdf) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
+[[Image-based Treatment Effect Heterogeneity]](https://arxiv.org/pdf/2206.06417.pdf) [[.bib]]() [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
-[[Non-parametric Content Analysis]](https://gking.harvard.edu/sites/scholar.harvard.edu/files/gking/files/div-class-title-an-improved-method-of-automated-nonparametric-content-analysis-for-social-science-div.pdf) [[Code]](https://github.com/iqss-research/readme-software) [![GitHub Repo stars](https://img.shields.io/github/stars/iqss-research/readme-software?style=social)](https://github.com/iqss-research/readme-software)
+[[Non-parametric Content Analysis]](https://gking.harvard.edu/sites/scholar.harvard.edu/files/gking/files/div-class-title-an-improved-method-of-automated-nonparametric-content-analysis-for-social-science-div.pdf) [[.bib]]() [[Code]](https://github.com/iqss-research/readme-software) [![GitHub Repo stars](https://img.shields.io/github/stars/iqss-research/readme-software?style=social)](https://github.com/iqss-research/readme-software)
 
-[[Linking Datasets on Organizations Using Half A Billion Open Collaborated Records]](https://arxiv.org/abs/2302.02533) [[Code]](https://github.com/cjerzak/LinkOrgs-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/LinkOrgs-software?style=social)](https://github.com/cjerzak/LinkOrgs-software)
+[[Linking Datasets on Organizations Using Half A Billion Open Collaborated Records]](https://arxiv.org/abs/2302.02533) [[.bib]]() [[Code]](https://github.com/cjerzak/LinkOrgs-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/LinkOrgs-software?style=social)](https://github.com/cjerzak/LinkOrgs-software)
 
-[[Degrees of Randomness in Rerandomization Procedures]](https://arxiv.org/abs/2310.00861) [[Code]](https://github.com/cjerzak/fastrerandomize-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/fastrerandomize-software?style=social)](https://github.com/cjerzak/fastrerandomize-software)
+[[Degrees of Randomness in Rerandomization Procedures]](https://arxiv.org/abs/2310.00861) [[.bib]]() [[Code]](https://github.com/cjerzak/fastrerandomize-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/fastrerandomize-software?style=social)](https://github.com/cjerzak/fastrerandomize-software)
 
 ### Substantive
 
-[[Where Minorities are the Majority: Electoral Rules and Ethnic Representation]](https://osf.io/preprints/osf/ums8y)
+[[Where Minorities are the Majority: Electoral Rules and Ethnic Representation]](https://osf.io/preprints/osf/ums8y) [[.bib]]()
 
-[[The Composition of Descriptive Representation]](https://www.cambridge.org/core/journals/american-political-science-review/article/composition-of-descriptive-representation/7EAEA1CA4C553AB9D76054D1FA9C0840) [[Code]](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/DescriptiveRepresentationCalculator-software?style=social)](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software)
+[[The Composition of Descriptive Representation]](https://www.cambridge.org/core/journals/american-political-science-review/article/composition-of-descriptive-representation/7EAEA1CA4C553AB9D76054D1FA9C0840) [[.bib]]() [[Code]](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/DescriptiveRepresentationCalculator-software?style=social)](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software)
 
-[[Housing Values and Partisanship: Evidence from E-ZPass]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf)
+[[Housing Values and Partisanship: Evidence from E-ZPass]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf) [[.bib]]()
 
 ### More Information
 [ConnorJerzak.com/Research](https://connorjerzak.com/research/)
