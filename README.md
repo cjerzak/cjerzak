@@ -44,11 +44,11 @@
 
 ### Substantive
 
-[[Where Minorities are the Majority: Electoral Rules and Ethnic Representation]](https://osf.io/preprints/osf/ums8y) [[.bib]]()
+[[Where Minorities are the Majority: Electoral Rules and Ethnic Representation]](https://osf.io/preprints/osf/ums8y) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/WhereTheMinoritiesBib.txt)
 
-[[The Composition of Descriptive Representation]](https://www.cambridge.org/core/journals/american-political-science-review/article/composition-of-descriptive-representation/7EAEA1CA4C553AB9D76054D1FA9C0840) [[.bib]]() [[Code]](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/DescriptiveRepresentationCalculator-software?style=social)](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software)
+[[The Composition of Descriptive Representation]](https://www.cambridge.org/core/journals/american-political-science-review/article/composition-of-descriptive-representation/7EAEA1CA4C553AB9D76054D1FA9C0840) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/CompositionBib.txt) [[Code]](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/DescriptiveRepresentationCalculator-software?style=social)](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software)
 
-[[Housing Values and Partisanship: Evidence from E-ZPass]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf) [[.bib]]()
+[[Housing Values and Partisanship: Evidence from E-ZPass]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/EZPassBib.txt)
 
 ### More Information
 [ConnorJerzak.com/Research](https://connorjerzak.com/research/)
