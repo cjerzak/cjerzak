@@ -28,19 +28,19 @@
 
 ## Papers & Code
 ### Methodological
-[[Planetary Causal Inference: Implications for the Geography of Poverty]](https://arxiv.org/abs/2406.02584) [[.bib]]() [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/eo-poverty-review?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
+[[Planetary Causal Inference: Implications for the Geography of Poverty]](https://arxiv.org/abs/2406.02584) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/PlanetaryCausal.txt) [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/eo-poverty-review?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
 
 [[Image De-confounding]](https://arxiv.org/pdf/2301.12985.pdf) [[.bib]]() [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
-[[Can Large Language Models (or Humans) Disentangle Text Features?]](https://aclanthology.org/2024.nlpcss-1.5/) [[.bib]]() [[Code]](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/TextDisentanglement?style=social)](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement)
+[[Can Large Language Models (or Humans) Disentangle Text Features?]](https://aclanthology.org/2024.nlpcss-1.5/) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/Disentangle.txt) [[Code]](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/TextDisentanglement?style=social)](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement)
 
-[[Image-based Treatment Effect Heterogeneity]](https://arxiv.org/pdf/2206.06417.pdf) [[.bib]]() [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
+[[Image-based Treatment Effect Heterogeneity]](https://arxiv.org/pdf/2206.06417.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/ImageHetBib.txt) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
-[[Non-parametric Content Analysis]](https://gking.harvard.edu/sites/scholar.harvard.edu/files/gking/files/div-class-title-an-improved-method-of-automated-nonparametric-content-analysis-for-social-science-div.pdf) [[.bib]]() [[Code]](https://github.com/iqss-research/readme-software) [![GitHub Repo stars](https://img.shields.io/github/stars/iqss-research/readme-software?style=social)](https://github.com/iqss-research/readme-software)
+[[Non-parametric Content Analysis]](https://gking.harvard.edu/sites/scholar.harvard.edu/files/gking/files/div-class-title-an-improved-method-of-automated-nonparametric-content-analysis-for-social-science-div.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/Readme2Bib.txt) [[Code]](https://github.com/iqss-research/readme-software) [![GitHub Repo stars](https://img.shields.io/github/stars/iqss-research/readme-software?style=social)](https://github.com/iqss-research/readme-software)
 
-[[Linking Datasets on Organizations Using Half A Billion Open Collaborated Records]](https://arxiv.org/abs/2302.02533) [[.bib]]() [[Code]](https://github.com/cjerzak/LinkOrgs-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/LinkOrgs-software?style=social)](https://github.com/cjerzak/LinkOrgs-software)
+[[Linking Datasets on Organizations Using Half A Billion Open Collaborated Records]](https://arxiv.org/abs/2302.02533) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/LinkOrgsBib.txt) [[Code]](https://github.com/cjerzak/LinkOrgs-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/LinkOrgs-software?style=social)](https://github.com/cjerzak/LinkOrgs-software)
 
-[[Degrees of Randomness in Rerandomization Procedures]](https://arxiv.org/abs/2310.00861) [[.bib]]() [[Code]](https://github.com/cjerzak/fastrerandomize-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/fastrerandomize-software?style=social)](https://github.com/cjerzak/fastrerandomize-software)
+[[Degrees of Randomness in Rerandomization Procedures]](https://arxiv.org/abs/2310.00861) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/LinkOrgsBib.txt) [[Code]](https://github.com/cjerzak/fastrerandomize-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/fastrerandomize-software?style=social)](https://github.com/cjerzak/fastrerandomize-software)
 
 ### Substantive
 
