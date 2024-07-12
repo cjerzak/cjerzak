@@ -18,7 +18,9 @@
 
 [[CV]](https://connorjerzak.com/wp-content/uploads/2023/01/ConnorJerzakCV.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/JerzakConnorBib.txt) 
 
-[[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) [[Academic Website]](https://connorjerzak.com)
+[[Homepage]](https://connorjerzak.com)
+
+[[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) 
 
 [[Team]](https://connorjerzak.com/collaborators/) [[Students]](https://connorjerzak.com/students/) 
 
