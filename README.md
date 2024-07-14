@@ -32,7 +32,7 @@
 ### Methodological
 [[Planetary Causal Inference: Implications for the Geography of Poverty]](https://arxiv.org/abs/2406.02584) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/PlanetaryCausal.txt) [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/eo-poverty-review?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
 
-[[Image De-confounding]](https://arxiv.org/pdf/2301.12985.pdf) [[.bib]]() [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
+[[Image De-confounding]](https://arxiv.org/pdf/2301.12985.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/EOCausal.txt) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
 [[Can Large Language Models (or Humans) Disentangle Text Features?]](https://aclanthology.org/2024.nlpcss-1.5/) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/Disentangle.txt) [[Code]](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/TextDisentanglement?style=social)](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement)
 
