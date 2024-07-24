@@ -29,7 +29,6 @@
 [[YouTube Tutorials]](https://www.youtube.com/channel/UCLwTj8390CoodCAh9zVnjhA) [[Data Assets]](https://connorjerzak.com/data/)
 
 ## Papers & Code
-$^*$ denotes joint work with graduate student co-author(s). See [[Students]](https://connorjerzak.com/students/) for more information. 
 
 ### Methodological
 
@@ -56,6 +55,8 @@ $^*$ denotes joint work with graduate student co-author(s). See [[Students]](htt
 [[The Composition of Descriptive Representation]](https://www.cambridge.org/core/journals/american-political-science-review/article/composition-of-descriptive-representation/7EAEA1CA4C553AB9D76054D1FA9C0840) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/CompositionBib.txt) [[Code]](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/DescriptiveRepresentationCalculator-software?style=social)](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software)
 
 [[Housing Values and Partisanship: Evidence from E-ZPass]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/EZPassBib.txt)
+
+$^*$ denotes joint work with graduate student co-author(s). See [[Students]](https://connorjerzak.com/students/) for more information. 
 
 ### More Information
 [ConnorJerzak.com/Research](https://connorjerzak.com/research/)
