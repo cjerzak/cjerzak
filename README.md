@@ -32,13 +32,13 @@
 
 ### Methodological
 
-[[Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice]](https://arxiv.org/abs/2407.11674) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/ImSeqHetero.txt)$^*$
+[[Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice]](https://arxiv.org/abs/2407.11674) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/ImSeqHetero.txt)*
 
-[[Planetary Causal Inference: Implications for the Geography of Poverty]](https://arxiv.org/abs/2406.02584) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/PlanetaryCausal.txt) [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)$^*$ [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/eo-poverty-review?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
+[[Planetary Causal Inference: Implications for the Geography of Poverty]](https://arxiv.org/abs/2406.02584) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/PlanetaryCausal.txt) [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)* [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/eo-poverty-review?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
 
 [[Image De-confounding]](https://arxiv.org/pdf/2301.12985.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/EOCausal.txt) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
-[[Can Large Language Models (or Humans) Disentangle Text Features?]](https://aclanthology.org/2024.nlpcss-1.5/) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/Disentangle.txt) [[Code]](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement)$^*$ [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/TextDisentanglement?style=social)](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement)
+[[Can Large Language Models (or Humans) Disentangle Text Features?]](https://aclanthology.org/2024.nlpcss-1.5/) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/Disentangle.txt) [[Code]](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement)* [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/TextDisentanglement?style=social)](https://github.com/AIandGlobalDevelopmentLab/TextDisentanglement)
 
 [[Image-based Treatment Effect Heterogeneity]](https://arxiv.org/pdf/2206.06417.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/ImageHetBib.txt) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
@@ -56,7 +56,7 @@
 
 [[Housing Values and Partisanship: Evidence from E-ZPass]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/EZPassBib.txt)
 
-$^*$ denotes joint work with graduate student co-author(s). See [[Students]](https://connorjerzak.com/students/) for more information. 
+* denotes joint work with graduate student co-author(s). See [[Students]](https://connorjerzak.com/students/) for more information. 
 
 ### More Information
 [ConnorJerzak.com/Research](https://connorjerzak.com/research/)
