@@ -56,7 +56,7 @@
 
 [[Housing Values and Partisanship: Evidence from E-ZPass]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/EZPassBib.txt)
 
-*denotes joint work with graduate student co-author(s). See [[Students]](https://connorjerzak.com/students/) for more information. 
+*indicates joint work with graduate student co-author(s). See [[Students]](https://connorjerzak.com/students/) for more information. 
 
 ### More Information
 [ConnorJerzak.com/Research](https://connorjerzak.com/research/)
