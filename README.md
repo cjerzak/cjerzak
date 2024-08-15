@@ -66,10 +66,13 @@
 -->
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1" style="transform: scale(1.2);">](https://connorjerzak.com/gci-overview/) 
+
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/InstViz.png?w=1280&ssl=1" style="transform: scale(0.85);">](https://osf.io/preprints/osf/ums8y) 
+
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2023/07/f1.png?w=738&ssl=1" style="transform: scale(0.5);">](https://arxiv.org/abs/2302.02533) 
+
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/CanLLMsViz.png?w=1232&ssl=1
-" style="transform: scale(0.5);"/>](https://aclanthology.org/2024.nlpcss-1.5.pdf) 
+" style="transform: scale(0.5);">](https://aclanthology.org/2024.nlpcss-1.5.pdf) 
 
 
 
