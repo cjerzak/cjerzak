@@ -65,8 +65,10 @@
 [<img src="https://connorjerzak.com/wp-content/uploads/2023/07/Screenshot-2023-07-17-at-11.50.01-AM.png" width="220" height="200">](https://www.utexas.edu/) [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2023/07/CJerzak.jpg?resize=768%2C806&ssl=1" width="300" height="200">](https://connorjerzak.com/)
 -->
 
-[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1" style="transform: scale(1.5);">](https://www.utexas.edu/) 
-[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/InstViz.png?w=1280&ssl=1" style="transform: scale(1.5);">](https://www.utexas.edu/) 
+[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1" style="transform: scale(1.5);">](https://connorjerzak.com/gci-overview/) 
+[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/InstViz.png?w=1280&ssl=1" style="transform: scale(1.5);">](https://osf.io/preprints/osf/ums8y) 
+[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2023/07/f1.png?w=738&ssl=1" style="transform: scale(1.5);">](https://arxiv.org/abs/2302.02533) 
+
 
 
 
