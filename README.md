@@ -66,7 +66,7 @@
 -->
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1" style="transform: scale(1.5);">](https://www.utexas.edu/) 
-[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/InstViz.png?w=1280&ssl=1" width="400" height="200">](https://www.utexas.edu/) 
+[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/InstViz.png?w=1280&ssl=1" style="transform: scale(1.5);">](https://www.utexas.edu/) 
 
 
 
