@@ -67,6 +67,8 @@
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2023/07/f1.png?w=738&ssl=1" style="transform: scale(0.5);">](https://arxiv.org/abs/2302.02533) 
 
+[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/Visual-Abstract-Figure-2-copy.png?w=1000&ssl=1" style="transform: scale(0.5);">](https://arxiv.org/abs/2407.11674) 
+
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/CanLLMsViz.png?w=1232&ssl=1" style="transform: scale(0.5);">](https://aclanthology.org/2024.nlpcss-1.5.pdf) 
 
 <!-- 
