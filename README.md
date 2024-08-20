@@ -16,9 +16,9 @@
 
 *Substantive research:* Political economy, social movements, descriptive representation. 
 
-[[CV]](https://connorjerzak.com/wp-content/uploads/2023/01/ConnorJerzakCV.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/JerzakConnorBib.txt) 
+[[CV]](https://connorjerzak.com/wp-content/uploads/2023/01/ConnorJerzakCV.pdf) [[Homepage]](https://connorjerzak.com) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/JerzakConnorBib.txt) 
 
-[[Homepage]](https://connorjerzak.com) [[Team]](https://connorjerzak.com/collaborators/) [[Students]](https://connorjerzak.com/students/) 
+[[Team]](https://connorjerzak.com/collaborators/) [[Students]](https://connorjerzak.com/students/) 
 
 [[AI & Global Development Lab GitHub]](https://github.com/AIandGlobalDevelopmentLab/) 
 
