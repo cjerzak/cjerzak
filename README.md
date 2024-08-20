@@ -56,7 +56,7 @@
 
 *indicates joint work with graduate student co-author(s). See [[Students]](https://connorjerzak.com/students/) for more information. 
 
-### Visualizations from Our Research
+### Visualizations
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1" style="transform: scale(1);">](https://connorjerzak.com/gci-overview/) 
 
