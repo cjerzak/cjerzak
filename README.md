@@ -2,7 +2,7 @@
 **cjerzak/cjerzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Bio + CV
+## Bio
 *Present:* <br>
 [1.] Assistant Professor in the Department of Government at the University of Texas at Austin. <br>
 [2.] Consultant, Institute for Health Metrics & Evaluation (IHME), University of Washington.
@@ -18,9 +18,7 @@
 
 [[CV]](https://connorjerzak.com/wp-content/uploads/2023/01/ConnorJerzakCV.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/JerzakConnorBib.txt) 
 
-[[Homepage]](https://connorjerzak.com)
-
-[[Team]](https://connorjerzak.com/collaborators/) [[Students]](https://connorjerzak.com/students/) 
+[[Homepage]](https://connorjerzak.com) [[Team]](https://connorjerzak.com/collaborators/) [[Students]](https://connorjerzak.com/students/) 
 
 [[AI & Global Development Lab GitHub]](https://github.com/AIandGlobalDevelopmentLab/) 
 
