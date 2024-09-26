@@ -32,7 +32,7 @@
 
 [[Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice]](https://arxiv.org/abs/2407.11674) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/ImSeqHetero.txt)*
 
-[[Planetary Causal Inference: Implications for the Geography of Poverty]](https://arxiv.org/abs/2406.02584) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/PlanetaryCausal.txt) [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)* [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/eo-poverty-review?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
+[[A Scoping Review of Earth Observation and Machine Learning for Causal Inference: Implications for the Geography of Poverty]](https://arxiv.org/abs/2406.02584) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/PlanetaryCausal.txt) [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)* [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/eo-poverty-review?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
 
 [[Image De-confounding]](https://arxiv.org/pdf/2301.12985.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/EOCausal.txt) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
