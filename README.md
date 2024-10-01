@@ -68,6 +68,9 @@
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/CanLLMsViz.png?w=1232&ssl=1" style="transform: scale(0.5);">](https://aclanthology.org/2024.nlpcss-1.5.pdf) 
 
+[<img src="https://connorjerzak.com/wp-content/uploads/2024/10/BookVAbstract.png" style="transform: scale(0.5);">](https://connorjerzak.com/planetary-causal-inference/) 
+
+
 <!-- 
 [<img src="https://connorjerzak.com/wp-content/uploads/2023/07/Screenshot-2023-07-17-at-11.50.01-AM.png" width="220" height="200">](https://www.utexas.edu/) [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2023/07/CJerzak.jpg?resize=768%2C806&ssl=1" width="300" height="200">](https://connorjerzak.com/)
 -->
