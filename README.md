@@ -2,7 +2,9 @@
 **cjerzak/cjerzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Bio
+[**Bio**](#bio)| [**Papers**](#installation) {[Substantive](#substantive), [Methodological](#methodological)} | [**Visualizations**](#visualizations)
+
+## Bio<a id="bio"></a>
 *Present:* <br>
 [1.] Assistant Professor in the Department of Government at the University of Texas at Austin. <br>
 [2.] Consultant, Institute for Health Metrics & Evaluation (IHME), University of Washington.
@@ -10,7 +12,6 @@
 *Past:* <br>
 [1.] Visiting Assistant Professor in the Department of Government at Harvard University (2024). <br>
 [2.] Postdoc, AI & Global Development Lab (2021-2022).
-
 
 *Methodological research:*  AI and global development, earth observation data for causal inference, adversarial dynamics, computational text analysis. 
 
@@ -26,9 +27,9 @@
 
 [[YouTube Tutorials]](https://www.youtube.com/channel/UCLwTj8390CoodCAh9zVnjhA) [[Data Assets]](https://connorjerzak.com/data/)
 
-## Papers & Code
+## Papers & Code <a id="papers"></a>
 
-### Methodological
+### Methodological <a id="methodological"></a>
 
 [[Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice]](https://arxiv.org/abs/2407.11674) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/ImSeqHetero.txt)*
 
@@ -46,7 +47,7 @@
 
 [[Degrees of Randomness in Rerandomization Procedures]](https://arxiv.org/abs/2310.00861) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/LinkOrgsBib.txt) [[Code]](https://github.com/cjerzak/fastrerandomize-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/fastrerandomize-software?style=social)](https://github.com/cjerzak/fastrerandomize-software)
 
-### Substantive
+### Substantive <a id="substantive"></a>
 
 [[Where Minorities are the Majority: Electoral Rules and Ethnic Representation]](https://osf.io/preprints/osf/ums8y) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/WhereTheMinoritiesBib.txt)
 
@@ -56,7 +57,7 @@
 
 *indicates joint work with graduate student co-author(s). See [[Students]](https://connorjerzak.com/students/) for more information. 
 
-## Visualizations
+## Visualizations  <a id="visualizations"></a>
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1" style="transform: scale(1);">](https://connorjerzak.com/gci-overview/) 
 
