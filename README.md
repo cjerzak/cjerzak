@@ -2,7 +2,7 @@
 **cjerzak/cjerzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[**Bio**](#bio) | [**Papers**](#installation) {[_Substantive_](#substantive), [_Methodological_](#methodological)} | [**Visualizations**](#visualizations)
+ToC: [**Bio**](#bio) | [**Papers**](#installation) {[_Substantive_](#substantive), [_Methodological_](#methodological)} | [**Visualizations**](#visualizations)
 
 ## Bio<a id="bio"></a>
 *Present:* <br>
