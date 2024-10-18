@@ -43,7 +43,7 @@
 
 [[Non-parametric Content Analysis]](https://gking.harvard.edu/sites/scholar.harvard.edu/files/gking/files/div-class-title-an-improved-method-of-automated-nonparametric-content-analysis-for-social-science-div.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/Readme2Bib.txt) [[Code]](https://github.com/iqss-research/readme-software) [![GitHub Repo stars](https://img.shields.io/github/stars/iqss-research/readme-software?style=social)](https://github.com/iqss-research/readme-software)
 
-[[Linking Datasets on Organizations Using Half A Billion Open Collaborated Records]](https://arxiv.org/abs/2302.02533) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/LinkOrgsBib.txt) [[Code]](https://github.com/cjerzak/LinkOrgs-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/LinkOrgs-software?style=social)](https://github.com/cjerzak/LinkOrgs-software)
+[[Linking Datasets on Organizations Using Half A Billion Open Collaborated Records]](https://doi.org/10.1017/psrm.2024.55) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/LinkOrgsBib.txt) [[Code]](https://github.com/cjerzak/LinkOrgs-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/LinkOrgs-software?style=social)](https://github.com/cjerzak/LinkOrgs-software)
 
 [[Degrees of Randomness in Rerandomization Procedures]](https://arxiv.org/abs/2310.00861) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/LinkOrgsBib.txt) [[Code]](https://github.com/cjerzak/fastrerandomize-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/fastrerandomize-software?style=social)](https://github.com/cjerzak/fastrerandomize-software)
 
