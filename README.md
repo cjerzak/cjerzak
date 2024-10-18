@@ -63,7 +63,7 @@
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/InstViz.png?w=1280&ssl=1" style="transform: scale(0.2);">](https://osf.io/preprints/osf/ums8y) 
 
-[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2023/07/f1.png?w=738&ssl=1" style="transform: scale(0.5);">](https://arxiv.org/abs/2302.02533) 
+[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2023/07/f1.png?w=738&ssl=1" style="transform: scale(0.5);">](https://doi.org/10.1017/psrm.2024.55) 
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/Visual-Abstract-Figure-2-copy.png?w=1000&ssl=1" style="transform: scale(0.5);">](https://arxiv.org/abs/2407.11674) 
 
