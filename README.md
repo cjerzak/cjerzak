@@ -2,7 +2,7 @@
 **cjerzak/cjerzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[**Bio**](#bio) | [**Papers**](#installation) {[_Substantive_](#substantive), [_Methodological_](#methodological)} | [**Visualizations**](#visualizations)
+[**Bio**](#bio) | [**Papers**](#installation) {[_Substantive_](#substantive), [_Methodological_](#methodological)} | [**Visualizations**](#visualizations) [**Students**](#students)
 
 ## Bio<a id="bio"></a>
 *Present:* <br>
@@ -70,6 +70,12 @@
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/CanLLMsViz.png?w=1232&ssl=1" style="transform: scale(0.5);">](https://aclanthology.org/2024.nlpcss-1.5.pdf) 
 
 [<img src="https://connorjerzak.com/wp-content/uploads/2024/10/BookVAbstract.png" style="transform: scale(0.5);">](https://connorjerzak.com/planetary-causal-inference/) 
+
+## Past and Present Student Co-authors or Advisees on GitHub  <a id="students"></a>
+
+[Beniamino Green](https://github.com/beniaminogreen/)
+
+[Fucheng Warren Zhu](https://github.com/WarrenZhu050413)
 
 
 <!-- 
