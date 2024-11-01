@@ -75,6 +75,8 @@
 
 [Beniamino Green](https://github.com/beniaminogreen/)
 
+[Ritwik Vashistha](https://github.com/ritwikvashistha)
+
 [Fucheng Warren Zhu](https://github.com/WarrenZhu050413)
 
 
