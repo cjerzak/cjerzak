@@ -21,6 +21,8 @@
 
 [[Team]](https://connorjerzak.com/collaborators/) [[Students]](https://connorjerzak.com/students/) 
 
+[`PlanetaryCausalInference.org`](https://planetarycausalinference.org/)
+
 [[AI & Global Development Lab GitHub]](https://github.com/AIandGlobalDevelopmentLab/) 
 
 [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) 
