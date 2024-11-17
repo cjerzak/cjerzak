@@ -21,7 +21,7 @@
 
 [[Team]](https://connorjerzak.com/collaborators/) [[Students]](https://connorjerzak.com/students/) 
 
-[`PlanetaryCausalInference.org`](https://planetarycausalinference.org/)
+[PlanetaryCausalInference.org](https://planetarycausalinference.org/)
 
 [[AI & Global Development Lab GitHub]](https://github.com/AIandGlobalDevelopmentLab/) 
 
