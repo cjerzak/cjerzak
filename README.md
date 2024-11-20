@@ -48,7 +48,7 @@
 
 ### Methodological <a id="methodological"></a>
 
-[[Encoding Multi-level Dynamics in Effect Heterogeneity Estimation]](https://arxiv.org/abs/2411.02134) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/11/MultilevelBib.txt)*
+[[Encoding Multi-level Dynamics in Effect Heterogeneity Estimation]](https://arxiv.org/abs/2411.02134) [[Video]](https://www.youtube.com/watch?v=RvAoJGMlKAI&t=33s) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/11/MultilevelBib.txt)*
 
 [[Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice]](https://arxiv.org/abs/2407.11674) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/ImSeqHetero.txt)*
 
