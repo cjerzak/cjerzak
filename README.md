@@ -89,3 +89,5 @@
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/CanLLMsViz.png?w=1232&ssl=1" style="transform: scale(0.5);">](https://aclanthology.org/2024.nlpcss-1.5.pdf) 
 
 [<img src="https://connorjerzak.com/wp-content/uploads/2024/10/BookVAbstract.png" style="transform: scale(0.5);">](https://connorjerzak.com/planetary-causal-inference/) 
+
+[![Video Title](https://img.youtube.com/vi/RvAoJGMlKAI/0.jpg)](https://www.youtube.com/watch?v=RvAoJGMlKAI&t=2s)
