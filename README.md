@@ -78,6 +78,9 @@
 
 ## Visualizations  <a id="visualizations"></a>
 
+
+[<img src="https://github.com/cjerzak/fastrerandomize-software/raw/main/misc/figures/Viz_Keys.png?raw=true" style="transform: scale(1);">](https://github.com/cjerzak/fastrerandomize-software) 
+
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1" style="transform: scale(1);">](https://connorjerzak.com/gci-overview/) 
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/InstViz.png?w=1280&ssl=1" style="transform: scale(0.2);">](https://osf.io/preprints/osf/ums8y) 
