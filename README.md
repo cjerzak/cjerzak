@@ -78,6 +78,12 @@
 
 ## Visualizations  <a id="visualizations"></a>
 
+<iframe
+	src="https://cjerzak-multiscaler.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
 
 [<img src="https://github.com/cjerzak/fastrerandomize-software/raw/main/misc/figures/Viz_Keys.png?raw=true" style="transform: scale(1);">](https://github.com/cjerzak/fastrerandomize-software) 
 
