@@ -4,10 +4,6 @@
 
 [**Bio**](#bio) | [**Papers**](#installation) {[_Substantive_](#substantive), [_Methodological_](#methodological)} | [**Visualizations**](#visualizations) | [**Students**](#students)
 
-![Google Scholar](https://img.shields.io/badge/scholar-11,200%C2%A0citations-4c9bf5?logo=googlescholar&logoColor=white)
-![arXiv](https://img.shields.io/badge/arXiv-44%20papers-b31b1b)
-![Visitors](https://komarev.com/ghpvc/?username=cjerzak&style=flat&label=Profile+views)
-
 ## Bio<a id="bio"></a>
 *Present:* <br>
 [1.] Assistant Professor in the Department of Government at the University of Texas at Austin. <br>
