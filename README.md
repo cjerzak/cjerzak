@@ -7,7 +7,6 @@
 ![Google Scholar](https://img.shields.io/badge/scholar-11,200%C2%A0citations-4c9bf5?logo=googlescholar&logoColor=white)
 ![arXiv](https://img.shields.io/badge/arXiv-44%20papers-b31b1b)
 ![Visitors](https://komarev.com/ghpvc/?username=cjerzak&style=flat&label=Profile+views)
-![Pronouns](https://img.shields.io/badge/pronouns-he·him-lightgrey?labelColor=black)
 
 ## Bio<a id="bio"></a>
 *Present:* <br>
