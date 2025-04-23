@@ -80,12 +80,12 @@
 
 <!-- light-theme image -->
 [![Workflow diagram – light](
-  https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1#gh-light-mode-only
+  https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1-scaled.png#gh-light-mode-only
 )](https://connorjerzak.com/gci-overview/)
 
 <!-- dark-theme image (make this a colour-inverted copy of the PNG and host it alongside the original) -->
 [![Workflow diagram – dark](
-  https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52_dark.png?w=1275&ssl=1#gh-dark-mode-only
+  https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1_darkmode.png#gh-dark-mode-only
 )](https://connorjerzak.com/gci-overview/)
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1" style="transform: scale(1);">](https://connorjerzak.com/gci-overview/) 
