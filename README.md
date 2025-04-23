@@ -78,6 +78,18 @@
 
 ## Visualizations  <a id="visualizations"></a>
 
+[![Workflow diagram – light](
+  https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1-scaled.png#gh-light-mode-only
+)](
+  https://connorjerzak.com/gci-overview/#gh-light-mode-only
+)
+
+[![Workflow diagram – dark](
+  https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1_darkmode.png#gh-dark-mode-only
+)](
+  https://connorjerzak.com/gci-overview/#gh-dark-mode-only
+)
+
 <!-- light-theme image -->
 [![Workflow diagram – light](
   https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1-scaled.png#gh-light-mode-only
