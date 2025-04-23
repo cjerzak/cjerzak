@@ -48,7 +48,7 @@
 
 ### Methodological <a id="methodological"></a>
 
-[[Encoding Multi-level Dynamics in Effect Heterogeneity Estimation]](https://arxiv.org/abs/2411.02134) [[Video]](https://www.youtube.com/watch?v=RvAoJGMlKAI&t=33s) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/11/MultilevelBib.txt)* [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/MultiScaler?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
+[[Optimizing Multi-Scale Representations to Detect Effect Heterogeneity Using Earth Observation and Computer Vision: Applications to Two Anti-Poverty RCTs]](https://arxiv.org/abs/2411.02134) [[Video]](https://www.youtube.com/watch?v=RvAoJGMlKAI&t=33s) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/11/MultilevelBib.txt)* [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/MultiScaler?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
 
 [[Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice]](https://arxiv.org/abs/2407.11674) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/ImSeqHetero.txt)*
 
@@ -77,6 +77,16 @@
 *indicates joint work with graduate student co-author(s). See [[Students]](https://connorjerzak.com/students/) for more information. 
 
 ## Visualizations  <a id="visualizations"></a>
+
+<!-- light-theme image -->
+[![Workflow diagram – light](
+  https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1#gh-light-mode-only
+)](https://connorjerzak.com/gci-overview/)
+
+<!-- dark-theme image (make this a colour-inverted copy of the PNG and host it alongside the original) -->
+[![Workflow diagram – dark](
+  https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52_dark.png?w=1275&ssl=1#gh-dark-mode-only
+)](https://connorjerzak.com/gci-overview/)
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1" style="transform: scale(1);">](https://connorjerzak.com/gci-overview/) 
 
