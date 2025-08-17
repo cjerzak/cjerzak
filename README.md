@@ -87,7 +87,11 @@
 -   [**Kazuki Sakamoto**](https://www.linkedin.com/in/kazukisakamoto/) presents: *[A Scoping Review of Earth Observation and Machine Learning for Causal Inference](https://connorjerzak.com/transcript-a-scoping-review-pci/)*
 -   [**Fucheng Warren Zhu**](https://www.warrenzhu.com/) presents: [*Optimizing Multi-Scale Representations to Detect Effect Heterogeneity Using EO and Computer Vision*](https://connorjerzak.com/transcript-encoding-multi-level-dynamics-in-effect-heterogeneity-estimation/)
 
+ <!-- 
+[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1" style="transform: scale(1);">](https://connorjerzak.com/gci-overview/) 
+-->
 
+<!-- 
 ## Visualizations  <a id="visualizations"></a>
 
 [![Workflow diagram – light](
@@ -102,10 +106,6 @@
   https://connorjerzak.com/gci-overview/#gh-dark-mode-only
 )
 
-<!-- 
-[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1" style="transform: scale(1);">](https://connorjerzak.com/gci-overview/) 
--->
-
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/InstViz.png?w=1280&ssl=1" style="transform: scale(0.2);">](https://osf.io/preprints/osf/ums8y) 
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2023/07/f1.png?w=738&ssl=1" style="transform: scale(0.5);">](https://doi.org/10.1017/psrm.2024.55) 
@@ -119,3 +119,4 @@
 [<img src="https://github.com/cjerzak/fastrerandomize-software/raw/main/misc/figures/Viz_Keys.png?raw=true" style="transform: scale(1);">](https://github.com/cjerzak/fastrerandomize-software) 
 
 [![Video Title](https://img.youtube.com/vi/RvAoJGMlKAI/0.jpg)](https://www.youtube.com/watch?v=RvAoJGMlKAI&t=2s)
+-->
