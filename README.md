@@ -108,7 +108,7 @@
 
 [![Video Title](https://img.youtube.com/vi/RvAoJGMlKAI/0.jpg)](https://www.youtube.com/watch?v=RvAoJGMlKAI&t=2s)
 
-## Recent Tutorials
+## Recent Team Tutorials
 
 -   [**Nicolas Audinet de Pieuchon**](https://nicaudinet.github.io/) presents: [*Can Large Language Models (or Humans) Disentangle Text?*](https://connorjerzak.com/transcript-disentangle-video/)
 -   [**Adel Daoud** ](https://adeldaoud.com/)presents: [*A First Course in Planetary Causal Inference: Confounding*](https://planetarycausalinference.org/transcript-pci-tutorial-2025/) (@IC2S2 2025)
