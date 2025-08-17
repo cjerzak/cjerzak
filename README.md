@@ -76,22 +76,10 @@
 
 *indicates joint work with graduate student co-author(s). See [[Students]](https://connorjerzak.com/students/) for more information. 
 
-## Recent Tutorials
-
--   [**Nicolas Audinet de Pieuchon**](https://nicaudinet.github.io/) presents: [*Can Large Language Models (or Humans) Disentangle Text?*](https://connorjerzak.com/transcript-disentangle-video/)
--   [**Adel Daoud** ](https://adeldaoud.com/)presents: [*A First Course in Planetary Causal Inference: Confounding*](https://planetarycausalinference.org/transcript-pci-tutorial-2025/) (@IC2S2 2025)
--   [**Adel Daoud** ](https://adeldaoud.com/)presents: [*Planetary Causal Inference*: Overview](https://planetarycausalinference.org/transcript-pci-seminar-yale/) (@Yale)
--   [**Connor Jerzak**](https://connorjerzak.com/) presents: *[Selecting Optimal Candidate Profiles in Adversarial Environments](https://connorjerzak.com/transcript-adversarial-2024/)*
--   [**Richard Johansson**](https://www.cse.chalmers.se/~richajo/) presents: *[Conceptualizing Treatment Leakage in Text-based Causal Inference](https://connorjerzak.com/transcript-leakage-video/)* (@NAACL)
--   [**Satiyabooshan Murugaboopathy**](https://www.linkedin.com/in/msatiya/?originalSubdomain=de) presents: *[Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?](https://aidevlab.org/transcript-platonic/)*
--   [**Kazuki Sakamoto**](https://www.linkedin.com/in/kazukisakamoto/) presents: *[A Scoping Review of Earth Observation and Machine Learning for Causal Inference](https://connorjerzak.com/transcript-a-scoping-review-pci/)*
--   [**Fucheng Warren Zhu**](https://www.warrenzhu.com/) presents: [*Optimizing Multi-Scale Representations to Detect Effect Heterogeneity Using EO and Computer Vision*](https://connorjerzak.com/transcript-encoding-multi-level-dynamics-in-effect-heterogeneity-estimation/)
-
  <!-- 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1" style="transform: scale(1);">](https://connorjerzak.com/gci-overview/) 
 -->
 
-<!-- 
 ## Visualizations  <a id="visualizations"></a>
 
 [![Workflow diagram – light](
@@ -119,4 +107,14 @@
 [<img src="https://github.com/cjerzak/fastrerandomize-software/raw/main/misc/figures/Viz_Keys.png?raw=true" style="transform: scale(1);">](https://github.com/cjerzak/fastrerandomize-software) 
 
 [![Video Title](https://img.youtube.com/vi/RvAoJGMlKAI/0.jpg)](https://www.youtube.com/watch?v=RvAoJGMlKAI&t=2s)
--->
+
+## Recent Tutorials
+
+-   [**Nicolas Audinet de Pieuchon**](https://nicaudinet.github.io/) presents: [*Can Large Language Models (or Humans) Disentangle Text?*](https://connorjerzak.com/transcript-disentangle-video/)
+-   [**Adel Daoud** ](https://adeldaoud.com/)presents: [*A First Course in Planetary Causal Inference: Confounding*](https://planetarycausalinference.org/transcript-pci-tutorial-2025/) (@IC2S2 2025)
+-   [**Adel Daoud** ](https://adeldaoud.com/)presents: [*Planetary Causal Inference*: Overview](https://planetarycausalinference.org/transcript-pci-seminar-yale/) (@Yale)
+-   [**Connor Jerzak**](https://connorjerzak.com/) presents: *[Selecting Optimal Candidate Profiles in Adversarial Environments](https://connorjerzak.com/transcript-adversarial-2024/)*
+-   [**Richard Johansson**](https://www.cse.chalmers.se/~richajo/) presents: *[Conceptualizing Treatment Leakage in Text-based Causal Inference](https://connorjerzak.com/transcript-leakage-video/)* (@NAACL)
+-   [**Satiyabooshan Murugaboopathy**](https://www.linkedin.com/in/msatiya/?originalSubdomain=de) presents: *[Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?](https://aidevlab.org/transcript-platonic/)*
+-   [**Kazuki Sakamoto**](https://www.linkedin.com/in/kazukisakamoto/) presents: *[A Scoping Review of Earth Observation and Machine Learning for Causal Inference](https://connorjerzak.com/transcript-a-scoping-review-pci/)*
+-   [**Fucheng Warren Zhu**](https://www.warrenzhu.com/) presents: [*Optimizing Multi-Scale Representations to Detect Effect Heterogeneity Using EO and Computer Vision*](https://connorjerzak.com/transcript-encoding-multi-level-dynamics-in-effect-heterogeneity-estimation/)
