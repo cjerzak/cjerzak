@@ -27,7 +27,7 @@
 
 [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) 
 
-[[YouTube Tutorials]](https://www.youtube.com/channel/UCLwTj8390CoodCAh9zVnjhA) [[Data Assets]](https://connorjerzak.com/data/)
+[[YouTube Tutorials]](https://connorjerzak.com/videos) [[Data Assets]](https://connorjerzak.com/data/)
 
 
 ## Past and Present Student Co-authors or Advisees on GitHub  <a id="students"></a>
