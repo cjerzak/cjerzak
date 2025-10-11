@@ -46,6 +46,7 @@
 
 ## Recent Team Tutorials
 
+-   [**Nicolas Audinet de Pieuchon**](https://nicaudinet.github.io/) presents: [*Benchmarking Debiasing Methods for LLM-based Parameter Estimates*](https://connorjerzak.com/transcript-benchmarking-debiasing-methods/)
 -   [**Nicolas Audinet de Pieuchon**](https://nicaudinet.github.io/) presents: [*Can Large Language Models (or Humans) Disentangle Text?*](https://connorjerzak.com/transcript-disentangle-video/)
 -   [**Adel Daoud** ](https://adeldaoud.com/)presents: [*A First Course in Planetary Causal Inference: Confounding*](https://planetarycausalinference.org/transcript-pci-tutorial-2025/) (@IC2S2 2025)
 -   [**Adel Daoud** ](https://adeldaoud.com/)presents: [*Planetary Causal Inference*: Overview](https://planetarycausalinference.org/transcript-pci-seminar-yale/) (@Yale)
