@@ -48,8 +48,9 @@
 
 -   [**Nicolas Audinet de Pieuchon**](https://nicaudinet.github.io/) presents: [*Benchmarking Debiasing Methods for LLM-based Parameter Estimates*](https://connorjerzak.com/transcript-benchmarking-debiasing-methods/)
 -   [**Nicolas Audinet de Pieuchon**](https://nicaudinet.github.io/) presents: [*Can Large Language Models (or Humans) Disentangle Text?*](https://connorjerzak.com/transcript-disentangle-video/)
--   [**Adel Daoud** ](https://adeldaoud.com/)presents: [*A First Course in Planetary Causal Inference: Confounding*](https://planetarycausalinference.org/transcript-pci-tutorial-2025/) (@IC2S2 2025)
--   [**Adel Daoud** ](https://adeldaoud.com/)presents: [*Planetary Causal Inference*: Overview](https://planetarycausalinference.org/transcript-pci-seminar-yale/) (@Yale)
+-   [**Adel Daoud**](https://adeldaoud.com/) presents: [*A First Course in Planetary Causal Inference: Confounding*](https://planetarycausalinference.org/transcript-pci-tutorial-2025/) (@IC2S2 2025)
+-   [**Adel Daoud**](https://adeldaoud.com/) presents: [*Planetary Causal Inference*: Overview](https://planetarycausalinference.org/transcript-pci-seminar-yale/) (@Yale)
+-   [**Connor Jerzak**](https://connorjerzak.com/) presents: [*Seeing Like a Satellite While Learning Across Scales: Remote Audits + Multi-Scale Optimization for Heterogeneity*](https://planetarycausalinference.org/transcript-seeing-like-a-satellite/)
 -   [**Connor Jerzak**](https://connorjerzak.com/) presents: *[Selecting Optimal Candidate Profiles in Adversarial Environments](https://connorjerzak.com/transcript-adversarial-2024/)*
 -   [**Richard Johansson**](https://www.cse.chalmers.se/~richajo/) presents: *[Conceptualizing Treatment Leakage in Text-based Causal Inference](https://connorjerzak.com/transcript-leakage-video/)* (@NAACL)
 -   [**Satiyabooshan Murugaboopathy**](https://www.linkedin.com/in/msatiya/?originalSubdomain=de) presents: *[Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?](https://aidevlab.org/transcript-platonic/)*
