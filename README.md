@@ -57,7 +57,7 @@
 -   [**Kazuki Sakamoto**](https://www.linkedin.com/in/kazukisakamoto/) presents: *[A Scoping Review of Earth Observation and Machine Learning for Causal Inference](https://connorjerzak.com/transcript-a-scoping-review-pci/)*
 -   [**Fucheng Warren Zhu**](https://www.warrenzhu.com/) presents: [*Optimizing Multi-Scale Representations to Detect Effect Heterogeneity Using EO and Computer Vision*](https://connorjerzak.com/transcript-encoding-multi-level-dynamics-in-effect-heterogeneity-estimation/)
 
-[<img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book.png?w=738&ssl=1" style="transform: scale(0.5);">](https://shopify.planetarycausalinference.org/) 
+[<img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book.png?w=738&ssl=1" style="transform: scale(0.1);">](https://shopify.planetarycausalinference.org/) 
 
 ## Papers (Selected) <a id="papers"></a>
 
