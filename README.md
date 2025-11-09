@@ -29,6 +29,7 @@
 
 [[YouTube Tutorials]](https://connorjerzak.com/videos) [[Data Assets]](https://connorjerzak.com/data/)
 
+[<img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book.png?w=738&ssl=1" width="200" alt="PCI Book">](https://shopify.planetarycausalinference.org/)
 
 ## Past and Present Student Co-authors or Advisees on GitHub  <a id="students"></a>
 
@@ -56,8 +57,6 @@
 -   [**Satiyabooshan Murugaboopathy**](https://www.linkedin.com/in/msatiya/?originalSubdomain=de) presents: *[Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?](https://aidevlab.org/transcript-platonic/)*
 -   [**Kazuki Sakamoto**](https://www.linkedin.com/in/kazukisakamoto/) presents: *[A Scoping Review of Earth Observation and Machine Learning for Causal Inference](https://connorjerzak.com/transcript-a-scoping-review-pci/)*
 -   [**Fucheng Warren Zhu**](https://www.warrenzhu.com/) presents: [*Optimizing Multi-Scale Representations to Detect Effect Heterogeneity Using EO and Computer Vision*](https://connorjerzak.com/transcript-encoding-multi-level-dynamics-in-effect-heterogeneity-estimation/)
-
-[<img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book.png?w=738&ssl=1" width="200" alt="PCI Book">](https://shopify.planetarycausalinference.org/)
 
 ## Papers (Selected) <a id="papers"></a>
 
