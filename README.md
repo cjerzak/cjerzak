@@ -31,6 +31,10 @@
 
 [<img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book.png?w=738&ssl=1" width="200" alt="PCI Book">](https://shopify.planetarycausalinference.org/)
 
+<a href="https://shopify.planetarycausalinference.org/#gh-light-mode-only">
+  <img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book.png#gh-light-mode-only" alt="Workflow diagram – light" width="400">
+</a>
+
 [![Workflow diagram – light](https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book.png#gh-light-mode-only)](https://shopify.planetarycausalinference.org/#gh-light-mode-only)
 [![Workflow diagram – dark](https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book_dark.png#gh-dark-mode-only)](https://shopify.planetarycausalinference.org/#gh-dark-mode-only)
 
