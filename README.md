@@ -31,6 +31,18 @@
 
 [<img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book.png?w=738&ssl=1" width="200" alt="PCI Book">](https://shopify.planetarycausalinference.org/)
 
+[![Workflow diagram – light](
+  https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book.png#gh-light-mode-only
+)](
+  https://shopify.planetarycausalinference.org/
+)
+
+[![Workflow diagram – dark](
+  https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book_dark.png#gh-dark-mode-only
+)](
+  https://shopify.planetarycausalinference.org/
+)
+
 ## Past and Present Student Co-authors or Advisees on GitHub  <a id="students"></a>
 
 |   |   |
