@@ -124,6 +124,12 @@
 
 [<img src="https://connorjerzak.com/wp-content/uploads/2024/10/BookVAbstract.png" style="transform: scale(0.5);">](https://connorjerzak.com/planetary-causal-inference/) 
 
-[<img src="https://github.com/cjerzak/fastrerandomize-software/raw/main/misc/figures/Viz_Keys.png?raw=true" style="transform: scale(1);">](https://github.com/cjerzak/fastrerandomize-software) 
+<a href="https://arxiv.org/abs/2501.07642/#gh-light-mode-only">
+  <img src="https://connorjerzak.com/wp-content/uploads/2025/11/figure1.webp#gh-light-mode-only" alt="Figure – light" width="600">
+</a>
+
+<a href="https://arxiv.org/abs/2501.07642/#gh-dark-mode-only">
+  <img src="https://connorjerzak.com/wp-content/uploads/2025/11/figure1_dark.webp#gh-dark-mode-only" alt="Figure – dark" width="600">
+</a>
 
 [![Video Title](https://img.youtube.com/vi/RvAoJGMlKAI/0.jpg)](https://www.youtube.com/watch?v=RvAoJGMlKAI&t=2s)
