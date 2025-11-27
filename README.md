@@ -2,7 +2,7 @@
 **cjerzak/cjerzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[**Bio**](#bio) | [**Papers**](#installation) {[_Substantive_](#substantive), [_Methodological_](#methodological)} | [**Visualizations**](#visualizations) | [**Students**](#students)
+[**Bio**](#bio) | [**Papers**](#installation) {[_Substantive_](#substantive), [_Methodological_](#methodological)} | [**Research Journey**](#research-journey) | [**Visualizations**](#visualizations) | [**Students**](#students)
 
 ## Bio<a id="bio"></a>
 *Present:* <br>
@@ -36,6 +36,76 @@
 <a href="https://planetarycausalinference.org/book-launch/#gh-dark-mode-only">
   <img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book_dark.png#gh-dark-mode-only" alt="Workflow diagram – dark" width="200">
 </a>
+
+## Research Journey: From Theory to Planetary Scale <a id="research-journey"></a>
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4a90e2','primaryTextColor':'#fff','primaryBorderColor':'#357abd','lineColor':'#6c757d','secondaryColor':'#82ca9d','tertiaryColor':'#ffc658','fontSize':'14px'}}}%%
+graph TB
+    Start["🎯 Core Question:<br/>How do we make causal<br/>inference at scale?"]
+    
+    %% Methodological Branch
+    Method1["📊 Text Analysis<br/><b>Non-parametric Content Analysis</b><br/>Automated classification without<br/>pre-labeled training data"]
+    Method2["🔗 Record Linkage<br/><b>LinkOrgs</b><br/>Matching organizations across<br/>500M+ open records"]
+    Method3["🛰️ Image De-confounding<br/><b>Causal Images</b><br/>Removing confounding from<br/>satellite imagery for causal inference"]
+    Method4["🌍 Effect Heterogeneity<br/><b>Multi-Scale Optimization</b><br/>Detecting who benefits most<br/>using Earth observation"]
+    Method5["🎲 Experimental Design<br/><b>Rerandomization</b><br/>Improving balance in<br/>randomized experiments"]
+    Method6["🤖 ML Debiasing<br/><b>Tweedie Unshrinking</b><br/>Correcting ML predictions<br/>without ground truth"]
+    Method7["💬 LLM Disentanglement<br/><b>Text Features</b><br/>Can AI separate intertwined<br/>textual dimensions?"]
+    
+    %% Substantive Applications
+    Sub1["🗳️ Electoral Representation<br/><b>Where Minorities are Majority</b><br/>How do electoral rules shape<br/>ethnic representation?"]
+    Sub2["👥 Descriptive Representation<br/><b>Composition Framework</b><br/>Measuring multidimensional<br/>representation accurately"]
+    Sub3["🏠 Political Economy<br/><b>Housing & Partisanship</b><br/>Infrastructure effects on<br/>political behavior"]
+    Sub4["🌐 Global Development<br/><b>Poverty Mapping</b><br/>AI + satellites for<br/>anti-poverty interventions"]
+    
+    %% Synthesis
+    Synthesis["📖 <b>Planetary Causal Inference</b><br/>Integrating Earth observation,<br/>machine learning, and causal inference<br/>for global-scale social science"]
+    
+    %% Connections
+    Start --> Method1
+    Start --> Method5
+    Method1 --> Method2
+    Method2 --> Method3
+    Method3 --> Method4
+    Method4 --> Method6
+    Method6 --> Method7
+    Method5 --> Method4
+    
+    Method1 -.-> Sub2
+    Method2 -.-> Sub1
+    Method3 -.-> Sub4
+    Method4 -.-> Sub4
+    Method6 -.-> Sub4
+    
+    Sub1 --> Sub2
+    Sub2 --> Sub3
+    
+    Method4 --> Synthesis
+    Method6 --> Synthesis
+    Sub4 --> Synthesis
+    
+    %% Styling
+    classDef methodClass fill:#4a90e2,stroke:#357abd,stroke-width:2px,color:#fff
+    classDef substClass fill:#82ca9d,stroke:#66a880,stroke-width:2px,color:#fff
+    classDef synthClass fill:#ffc658,stroke:#e6b04a,stroke-width:3px,color:#000
+    classDef startClass fill:#e74c3c,stroke:#c0392b,stroke-width:3px,color:#fff
+    
+    class Method1,Method2,Method3,Method4,Method5,Method6,Method7 methodClass
+    class Sub1,Sub2,Sub3,Sub4 substClass
+    class Synthesis synthClass
+    class Start startClass
+```
+
+**Legend:** 
+- 🔵 **Blue nodes** = Methodological innovations (tools for causal inference)
+- 🟢 **Green nodes** = Substantive applications (real-world questions)
+- 🟡 **Yellow node** = Synthesis (unifying framework)
+- Solid lines = methodological evolution | Dashed lines = method → application
+
+**The Journey:** Starting from fundamental questions about scaling causal inference, my work develops new methods that progressively incorporate richer data types (text → organizations → images → multi-scale representations) while simultaneously applying these tools to pressing substantive questions in political economy and global development. This culminates in *Planetary Causal Inference*—a unified framework for using Earth observation and machine learning to answer causal questions at unprecedented scales.
+
+---
 
 ## Past and Present Student Co-authors or Advisees on GitHub  <a id="students"></a>
 
