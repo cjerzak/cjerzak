@@ -68,11 +68,11 @@
 
 ### Methodological <a id="methodological"></a>
 
-[[Optimizing Multi-Scale Representations to Detect Effect Heterogeneity Using Earth Observation and Computer Vision: Applications to Two Anti-Poverty RCTs]](https://arxiv.org/abs/2411.02134) [[Video]](https://www.youtube.com/watch?v=RvAoJGMlKAI&t=33s) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/11/MultilevelBib.txt)* [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/MultiScaler?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
-
-[[Debiasing Machine Learning Predictions for Causal Inference Without Additional Ground Truth Data: "One Map, Many Trials" in Satellite-Driven Poverty Analysis]](https://arxiv.org/abs/2508.01341)  [[.bib]](https://aidevlab.org/wp-content/uploads/2025/08/TweedieBib.txt)* [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/unshrink?style=social)](https://github.com/AIandGlobalDevelopmentLab/unshrink)
+[[Debiasing Machine Learning Predictions for Causal Inference Without Additional Ground Truth Data: "One Map, Many Trials" in Satellite-Driven Poverty Analysis]](https://arxiv.org/abs/2508.01341)  [[.bib]](https://aidevlab.org/wp-content/uploads/2025/08/TweedieBib.txt)* [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/unshrink?style=social)](https://github.com/AIandGlobalDevelopmentLab/unshrink)*
 
 [[Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice]](https://arxiv.org/abs/2407.11674) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/ImSeqHetero.txt)*
+
+[[Optimizing Multi-Scale Representations to Detect Effect Heterogeneity Using Earth Observation and Computer Vision: Applications to Two Anti-Poverty RCTs]](https://arxiv.org/abs/2411.02134) [[Video]](https://www.youtube.com/watch?v=RvAoJGMlKAI&t=33s) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/11/MultilevelBib.txt)* 
 
 [[A Scoping Review of Earth Observation and Machine Learning for Causal Inference: Implications for the Geography of Poverty]](https://arxiv.org/abs/2406.02584) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/PlanetaryCausal.txt) [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)* [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/eo-poverty-review?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
 
