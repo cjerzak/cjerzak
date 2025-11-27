@@ -2,7 +2,7 @@
 **cjerzak/cjerzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[**Bio**](#bio) | [**Papers**](#installation) {[_Substantive_](#substantive), [_Methodological_](#methodological)} | [**Research Journey**](#research-journey) | [**Visualizations**](#visualizations) | [**Students**](#students)
+[**Bio**](#bio) | [**Papers**](#installation) {[_Substantive_](#substantive), [_Methodological_](#methodological)} | [**Visualizations**](#visualizations) | [**Students**](#students)
 
 ## Bio<a id="bio"></a>
 *Present:* <br>
@@ -36,76 +36,6 @@
 <a href="https://planetarycausalinference.org/book-launch/#gh-dark-mode-only">
   <img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book_dark.png#gh-dark-mode-only" alt="Workflow diagram – dark" width="200">
 </a>
-
-## Research Journey: From Theory to Planetary Scale <a id="research-journey"></a>
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4a90e2','primaryTextColor':'#fff','primaryBorderColor':'#357abd','lineColor':'#6c757d','secondaryColor':'#82ca9d','tertiaryColor':'#ffc658','fontSize':'14px'}}}%%
-graph TB
-    Start["🎯 Core Question:<br/>How do we make causal<br/>inference at scale?"]
-    
-    %% Methodological Branch
-    Method1["📊 Text Analysis<br/><b>Non-parametric Content Analysis</b><br/>Automated classification without<br/>pre-labeled training data"]
-    Method2["🔗 Record Linkage<br/><b>LinkOrgs</b><br/>Matching organizations across<br/>500M+ open records"]
-    Method3["🛰️ Image De-confounding<br/><b>Causal Images</b><br/>Removing confounding from<br/>satellite imagery for causal inference"]
-    Method4["🌍 Effect Heterogeneity<br/><b>Multi-Scale Optimization</b><br/>Detecting who benefits most<br/>using Earth observation"]
-    Method5["🎲 Experimental Design<br/><b>Rerandomization</b><br/>Improving balance in<br/>randomized experiments"]
-    Method6["🤖 ML Debiasing<br/><b>Tweedie Unshrinking</b><br/>Correcting ML predictions<br/>without ground truth"]
-    Method7["💬 LLM Disentanglement<br/><b>Text Features</b><br/>Can AI separate intertwined<br/>textual dimensions?"]
-    
-    %% Substantive Applications
-    Sub1["🗳️ Electoral Representation<br/><b>Where Minorities are Majority</b><br/>How do electoral rules shape<br/>ethnic representation?"]
-    Sub2["👥 Descriptive Representation<br/><b>Composition Framework</b><br/>Measuring multidimensional<br/>representation accurately"]
-    Sub3["🏠 Political Economy<br/><b>Housing & Partisanship</b><br/>Infrastructure effects on<br/>political behavior"]
-    Sub4["🌐 Global Development<br/><b>Poverty Mapping</b><br/>AI + satellites for<br/>anti-poverty interventions"]
-    
-    %% Synthesis
-    Synthesis["📖 <b>Planetary Causal Inference</b><br/>Integrating Earth observation,<br/>machine learning, and causal inference<br/>for global-scale social science"]
-    
-    %% Connections
-    Start --> Method1
-    Start --> Method5
-    Method1 --> Method2
-    Method2 --> Method3
-    Method3 --> Method4
-    Method4 --> Method6
-    Method6 --> Method7
-    Method5 --> Method4
-    
-    Method1 -.-> Sub2
-    Method2 -.-> Sub1
-    Method3 -.-> Sub4
-    Method4 -.-> Sub4
-    Method6 -.-> Sub4
-    
-    Sub1 --> Sub2
-    Sub2 --> Sub3
-    
-    Method4 --> Synthesis
-    Method6 --> Synthesis
-    Sub4 --> Synthesis
-    
-    %% Styling
-    classDef methodClass fill:#4a90e2,stroke:#357abd,stroke-width:2px,color:#fff
-    classDef substClass fill:#82ca9d,stroke:#66a880,stroke-width:2px,color:#fff
-    classDef synthClass fill:#ffc658,stroke:#e6b04a,stroke-width:3px,color:#000
-    classDef startClass fill:#e74c3c,stroke:#c0392b,stroke-width:3px,color:#fff
-    
-    class Method1,Method2,Method3,Method4,Method5,Method6,Method7 methodClass
-    class Sub1,Sub2,Sub3,Sub4 substClass
-    class Synthesis synthClass
-    class Start startClass
-```
-
-**Legend:** 
-- 🔵 **Blue nodes** = Methodological innovations (tools for causal inference)
-- 🟢 **Green nodes** = Substantive applications (real-world questions)
-- 🟡 **Yellow node** = Synthesis (unifying framework)
-- Solid lines = methodological evolution | Dashed lines = method → application
-
-**The Journey:** Starting from fundamental questions about scaling causal inference, my work develops new methods that progressively incorporate richer data types (text → organizations → images → multi-scale representations) while simultaneously applying these tools to pressing substantive questions in political economy and global development. This culminates in *Planetary Causal Inference*—a unified framework for using Earth observation and machine learning to answer causal questions at unprecedented scales.
-
----
 
 ## Past and Present Student Co-authors or Advisees on GitHub  <a id="students"></a>
 
@@ -205,3 +135,231 @@ graph TB
 </a>
 
 [![Video Title](https://img.youtube.com/vi/RvAoJGMlKAI/0.jpg)](https://www.youtube.com/watch?v=RvAoJGMlKAI&t=2s)
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="earthGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a5fb4"/>
+      <stop offset="50%" style="stop-color:#26a269"/>
+      <stop offset="100%" style="stop-color:#1a5fb4"/>
+    </linearGradient>
+    <linearGradient id="dataGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f5c211"/>
+      <stop offset="100%" style="stop-color:#ff7800"/>
+    </linearGradient>
+    <linearGradient id="insightGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9141ac"/>
+      <stop offset="100%" style="stop-color:#c061cb"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    
+    <!-- Glow filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Satellite shape -->
+    <g id="satellite">
+      <rect x="-8" y="-3" width="16" height="6" fill="#c0bfbc" rx="1"/>
+      <rect x="-20" y="-1.5" width="10" height="3" fill="#3584e4"/>
+      <rect x="10" y="-1.5" width="10" height="3" fill="#3584e4"/>
+      <circle cx="0" cy="0" r="2" fill="#f5c211"/>
+    </g>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="300" fill="url(#bgGrad)"/>
+  
+  <!-- Stars -->
+  <g fill="#ffffff" opacity="0.6">
+    <circle cx="50" cy="30" r="1"><animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="80" r="0.8"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="25" r="1.2"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="60" r="0.6"><animate attributeName="opacity" values="0.6;1;0.6" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="450" cy="35" r="1"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="550" cy="70" r="0.9"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.7s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="20" r="1.1"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="750" cy="55" r="0.7"><animate attributeName="opacity" values="0.6;1;0.6" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="100" cy="250" r="0.8"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="240" r="1"><animate attributeName="opacity" values="0.4;1;0.4" dur="1.9s" repeatCount="indefinite"/></circle>
+  </g>
+  
+  <!-- Section 1: Earth with satellite orbit -->
+  <g transform="translate(100, 150)">
+    <!-- Earth -->
+    <circle cx="0" cy="0" r="45" fill="url(#earthGrad)" filter="url(#glow)"/>
+    <!-- Continents hint -->
+    <ellipse cx="-10" cy="-5" rx="15" ry="20" fill="#26a269" opacity="0.6"/>
+    <ellipse cx="15" cy="10" rx="12" ry="15" fill="#26a269" opacity="0.5"/>
+    
+    <!-- Orbit path -->
+    <ellipse cx="0" cy="0" rx="70" ry="25" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.3" transform="rotate(-20)"/>
+    
+    <!-- Orbiting satellite -->
+    <g transform="rotate(-20)">
+      <use href="#satellite" transform="translate(70, 0) scale(0.8)">
+        <animateTransform attributeName="transform" type="translate" 
+          values="70,0; 0,-25; -70,0; 0,25; 70,0" 
+          dur="8s" repeatCount="indefinite" calcMode="linear"/>
+        <animateTransform attributeName="transform" type="scale" 
+          values="0.8; 1; 0.8; 0.6; 0.8" 
+          dur="8s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+    
+    <!-- Scanning beam -->
+    <path d="M 0 50 L -15 90 L 15 90 Z" fill="#f5c211" opacity="0.2">
+      <animate attributeName="opacity" values="0.1;0.3;0.1" dur="2s" repeatCount="indefinite"/>
+    </path>
+    
+    <text x="0" y="85" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="11" font-weight="600">OBSERVE</text>
+  </g>
+  
+  <!-- Data flow particles 1→2 -->
+  <g>
+    <circle r="3" fill="url(#dataGrad)" filter="url(#glow)">
+      <animate attributeName="cx" values="180;280" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="150;150" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="url(#dataGrad)" filter="url(#glow)">
+      <animate attributeName="cx" values="180;280" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+      <animate attributeName="cy" values="150;150" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+    </circle>
+    <circle r="3" fill="url(#dataGrad)" filter="url(#glow)">
+      <animate attributeName="cx" values="180;280" dur="2s" repeatCount="indefinite" begin="1s"/>
+      <animate attributeName="cy" values="150;150" dur="2s" repeatCount="indefinite" begin="1s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2s" repeatCount="indefinite" begin="1s"/>
+    </circle>
+  </g>
+  
+  <!-- Section 2: ML/Neural Network -->
+  <g transform="translate(350, 150)">
+    <!-- Network nodes - input layer -->
+    <circle cx="-40" cy="-30" r="6" fill="#3584e4" opacity="0.8">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-40" cy="0" r="6" fill="#3584e4" opacity="0.8">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite" begin="0.2s"/>
+    </circle>
+    <circle cx="-40" cy="30" r="6" fill="#3584e4" opacity="0.8">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite" begin="0.4s"/>
+    </circle>
+    
+    <!-- Network nodes - hidden layer -->
+    <circle cx="0" cy="-20" r="7" fill="#26a269" opacity="0.8">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1.2s" repeatCount="indefinite" begin="0.3s"/>
+    </circle>
+    <circle cx="0" cy="20" r="7" fill="#26a269" opacity="0.8">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1.2s" repeatCount="indefinite" begin="0.5s"/>
+    </circle>
+    
+    <!-- Network nodes - output layer -->
+    <circle cx="40" cy="0" r="8" fill="url(#insightGrad)" filter="url(#glow)">
+      <animate attributeName="r" values="7;9;7" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Connections -->
+    <g stroke="#ffffff" stroke-width="1" opacity="0.3">
+      <line x1="-34" y1="-30" x2="-7" y2="-20"/>
+      <line x1="-34" y1="-30" x2="-7" y2="20"/>
+      <line x1="-34" y1="0" x2="-7" y2="-20"/>
+      <line x1="-34" y1="0" x2="-7" y2="20"/>
+      <line x1="-34" y1="30" x2="-7" y2="-20"/>
+      <line x1="-34" y1="30" x2="-7" y2="20"/>
+      <line x1="7" y1="-20" x2="32" y2="0"/>
+      <line x1="7" y1="20" x2="32" y2="0"/>
+    </g>
+    
+    <!-- Pulsing connections -->
+    <g stroke="url(#dataGrad)" stroke-width="2" opacity="0.6">
+      <line x1="-34" y1="0" x2="-7" y2="-20">
+        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="1s" repeatCount="indefinite"/>
+      </line>
+      <line x1="7" y1="-20" x2="32" y2="0">
+        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="1s" repeatCount="indefinite" begin="0.3s"/>
+      </line>
+    </g>
+    
+    <text x="0" y="65" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="11" font-weight="600">LEARN</text>
+  </g>
+  
+  <!-- Data flow particles 2→3 -->
+  <g>
+    <circle r="3" fill="url(#insightGrad)" filter="url(#glow)">
+      <animate attributeName="cx" values="420;520" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="150;150" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="url(#insightGrad)" filter="url(#glow)">
+      <animate attributeName="cx" values="420;520" dur="2s" repeatCount="indefinite" begin="0.7s"/>
+      <animate attributeName="cy" values="150;150" dur="2s" repeatCount="indefinite" begin="0.7s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2s" repeatCount="indefinite" begin="0.7s"/>
+    </circle>
+  </g>
+  
+  <!-- Section 3: Causal Graph / Inference -->
+  <g transform="translate(600, 150)">
+    <!-- Causal nodes -->
+    <circle cx="-30" cy="-25" r="12" fill="#e66100" filter="url(#glow)">
+      <animate attributeName="r" values="11;13;11" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="-30" y="-22" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="9" font-weight="bold">T</text>
+    
+    <circle cx="30" cy="-25" r="12" fill="#5e81ac" filter="url(#glow)">
+      <animate attributeName="r" values="11;13;11" dur="3s" repeatCount="indefinite" begin="0.5s"/>
+    </circle>
+    <text x="30" y="-22" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="9" font-weight="bold">Y</text>
+    
+    <circle cx="0" cy="25" r="12" fill="#a3be8c" filter="url(#glow)">
+      <animate attributeName="r" values="11;13;11" dur="3s" repeatCount="indefinite" begin="1s"/>
+    </circle>
+    <text x="0" y="28" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="9" font-weight="bold">X</text>
+    
+    <!-- Causal arrows -->
+    <defs>
+      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+        <polygon points="0 0, 10 3.5, 0 7" fill="#ffffff"/>
+      </marker>
+    </defs>
+    
+    <!-- T → Y (treatment effect) -->
+    <line x1="-16" y1="-25" x2="16" y2="-25" stroke="#ffffff" stroke-width="2" marker-end="url(#arrowhead)">
+      <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+    </line>
+    
+    <!-- X → T -->
+    <line x1="-8" y1="15" x2="-22" y2="-12" stroke="#ffffff" stroke-width="1.5" marker-end="url(#arrowhead)" opacity="0.6"/>
+    
+    <!-- X → Y -->
+    <line x1="8" y1="15" x2="22" y2="-12" stroke="#ffffff" stroke-width="1.5" marker-end="url(#arrowhead)" opacity="0.6"/>
+    
+    <!-- Effect estimate badge -->
+    <g transform="translate(55, -10)">
+      <rect x="-25" y="-12" width="50" height="24" rx="12" fill="url(#insightGrad)" filter="url(#glow)">
+        <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="0" y="4" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="10" font-weight="bold">τ = 0.23</text>
+    </g>
+    
+    <text x="10" y="65" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="11" font-weight="600">INFER</text>
+  </g>
+  
+  <!-- Title -->
+  <text x="400" y="280" text-anchor="middle" fill="#8b949e" font-family="system-ui, sans-serif" font-size="13" letter-spacing="3">
+    PLANETARY CAUSAL INFERENCE
+  </text>
+  
+  <!-- Decorative brackets -->
+  <path d="M 30 100 Q 20 150 30 200" fill="none" stroke="#30363d" stroke-width="2"/>
+  <path d="M 770 100 Q 780 150 770 200" fill="none" stroke="#30363d" stroke-width="2"/>
+</svg>
