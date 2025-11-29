@@ -141,10 +141,11 @@
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2023/07/f1.png?w=738&ssl=1" style="transform: scale(0.5);">](https://doi.org/10.1017/psrm.2024.55) 
 
-[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/Visual-Abstract-Figure-2-copy.png?w=1000&ssl=1" style="transform: scale(0.5);">](https://arxiv.org/abs/2407.11674) 
+[<img src="https://planetarycausalinference.org/wp-content/uploads/2024/11/Visual-Abstract-Figure-2-copy.webp?w=1000&ssl=1" style="transform: scale(0.5);">](https://arxiv.org/abs/2407.11674) 
+
+[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/10/BookVAbstract.png?resize=640%2C407&ssl=1" style="transform: scale(0.5);">](https://connorjerzak.com/planetary-causal-inference/) 
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/CanLLMsViz.png?w=1232&ssl=1" style="transform: scale(0.5);">](https://aclanthology.org/2024.nlpcss-1.5.pdf) 
 
-[<img src="https://connorjerzak.com/wp-content/uploads/2024/10/BookVAbstract.png" style="transform: scale(0.5);">](https://connorjerzak.com/planetary-causal-inference/) 
 
 [![Video Title](https://img.youtube.com/vi/RvAoJGMlKAI/0.jpg)](https://www.youtube.com/watch?v=RvAoJGMlKAI&t=2s)
