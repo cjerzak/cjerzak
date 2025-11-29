@@ -163,25 +163,19 @@
   https://doi.org/10.1017/psrm.2024.55/#gh-dark-mode-only
 )
 
----
+<a href="https://doi.org/10.1017/psrm.2024.55/#gh-light-mode-only">
+  <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im2.webp#gh-light-mode-only" alt="Figure – light" width="300">
+</a>
+<a href="https://doi.org/10.1017/psrm.2024.55/#gh-dark-mode-only">
+  <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im1.webp#gh-dark-mode-only" alt="Figure – dark" width="300">
+</a>
 
-<a href="https://aclanthology.org/2024.nlpcss-1.5.pdf#gh-light-mode-only">
+<a href="https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-light-mode-only">
   <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp#gh-light-mode-only" alt="Figure – light" width="300">
 </a>
 <a href="https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-dark-mode-only">
   <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im3.webp#gh-dark-mode-only" alt="Figure – dark" width="300">
 </a>
-
-[![Figure – light](
-  https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp?w=100&ssl=1#gh-light-mode-only
-)](
-  https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-light-mode-only
-)
-[![Figure – dark](
-  https://connorjerzak.com/wp-content/uploads/2025/11/im3.webp?w=100&ssl=1#gh-dark-mode-only
-)](
-  https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-dark-mode-only
-)
 
 ---
 
