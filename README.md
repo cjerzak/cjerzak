@@ -152,17 +152,6 @@
 
 ---
 
-[![Figure – light](
-  https://connorjerzak.com/wp-content/uploads/2025/11/im2.webp?w=1000&ssl=1#gh-light-mode-only
-)](
-  https://doi.org/10.1017/psrm.2024.55/#gh-light-mode-only
-)
-[![Figure – dark](
-  https://connorjerzak.com/wp-content/uploads/2025/11/im1.webp?w=1000&ssl=1#gh-dark-mode-only
-)](
-  https://doi.org/10.1017/psrm.2024.55/#gh-dark-mode-only
-)
-
 <a href="https://doi.org/10.1017/psrm.2024.55/#gh-light-mode-only">
   <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im2.webp#gh-light-mode-only" alt="Figure – light" width="300">
 </a>
