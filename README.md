@@ -189,84 +189,83 @@
 ## Visualizations <a id="visualizations"></a>
 
 <table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://connorjerzak.com/gci-overview/#gh-light-mode-only">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1-scaled.png#gh-light-mode-only" alt="Workflow Visualization" width="100%">
-      </a>
-      <a href="https://connorjerzak.com/gci-overview/#gh-dark-mode-only">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1_darkmode.png#gh-dark-mode-only" alt="Workflow Visualization" width="100%">
-      </a>
-      <br>
-      <sub><b>General Causal Inference Overview</b></sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://osf.io/preprints/osf/ums8y/#gh-light-mode-only">
-        <img src="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz.webp?w=1280&ssl=1#gh-light-mode-only" alt="Institutional Viz" width="100%">
-      </a>
-      <a href="https://osf.io/preprints/osf/ums8y/#gh-dark-mode-only">
-        <img src="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz_dark.webp?w=1280&ssl=1#gh-dark-mode-only" alt="Institutional Viz" width="100%">
-      </a>
-      <br>
-      <sub><b>Institutional Analysis</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://arxiv.org/abs/2501.07642/#gh-light-mode-only">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/figure1.webp#gh-light-mode-only" alt="Research Figure 1" width="100%">
-      </a>
-      <a href="https://arxiv.org/abs/2501.07642/#gh-dark-mode-only">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/figure1_dark.webp#gh-dark-mode-only" alt="Research Figure 1" width="100%">
-      </a>
-      <br>
-      <sub><b>ArXiv: 2501.07642</b></sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://arxiv.org/abs/2407.11674/#gh-light-mode-only">
-        <img src="https://planetarycausalinference.org/wp-content/uploads/2024/11/Visual-Abstract-Figure-2-copy.webp?w=1000&ssl=1#gh-light-mode-only" alt="Planetary Causal Inference" width="100%">
-      </a>
-      <a href="https://arxiv.org/abs/2407.11674/#gh-dark-mode-only">
-        <img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/Visual-Abstract-Figure-2-copy_dark.webp?w=1000&ssl=1#gh-dark-mode-only" alt="Planetary Causal Inference" width="100%">
-      </a>
-      <br>
-      <sub><b>Planetary Causal Inference</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://doi.org/10.1017/psrm.2024.55/#gh-light-mode-only">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im2.webp#gh-light-mode-only" alt="PSRM Figure" width="100%">
-      </a>
-      <a href="https://doi.org/10.1017/psrm.2024.55/#gh-dark-mode-only">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im1.webp#gh-dark-mode-only" alt="PSRM Figure" width="100%">
-      </a>
-      <br>
-      <sub><b>PSRM 2024</b></sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-light-mode-only">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp#gh-light-mode-only" alt="ACL Anthology" width="100%">
-      </a>
-      <a href="https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-dark-mode-only">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im3.webp#gh-dark-mode-only" alt="ACL Anthology" width="100%">
-      </a>
-      <br>
-      <sub><b>ACL Anthology</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://planetarycausalinference.org/book-launch/#gh-light-mode-only">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im6.webp?w=1000&ssl=1#gh-light-mode-only" alt="Book Launch" width="100%">
-      </a>
-      <a href="https://planetarycausalinference.org/book-launch/#gh-dark-mode-only">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im5.webp?w=1000&ssl=1#gh-dark-mode-only" alt="Book Launch" width="100%">
-      </a>
-      <br>
-      <sub><b>Book Launch</b></sub>
-    </td>
-     <td width="50%" align="center" valign="top">
-      </td>
-  </tr>
+<tr>
+<td>
+<a href="https://connorjerzak.com/gci-overview/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1_darkmode.png">
+<source media="(prefers-color-scheme: light)" srcset="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1-scaled.png">
+<img alt="Workflow diagram" src="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1-scaled.png" width="400">
+</picture>
+</a>
+<center><a href="https://connorjerzak.com/gci-overview/">Earth Observation Workflow for Causal Inference</a></center>
+</td>
+<td>
+<a href="https://osf.io/preprints/osf/ums8y/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz_dark.webp?w=1280&ssl=1">
+<source media="(prefers-color-scheme: light)" srcset="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz.webp?w=1280&ssl=1">
+<img alt="Figure" src="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz.webp?w=1280&ssl=1" width="400">
+</picture>
+</a>
+<center><a href="https://osf.io/preprints/osf/ums8y/">Where Minorities are the Majority: Electoral Rules and Ethnic Representation</a></center>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://arxiv.org/abs/2501.07642/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/figure1_dark.webp">
+<source media="(prefers-color-scheme: light)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/figure1.webp">
+<img alt="Figure" src="https://connorjerzak.com/wp-content/uploads/2025/11/figure1.webp" width="400">
+</picture>
+</a>
+<center><a href="https://arxiv.org/abs/2501.07642/">Fast Rerandomization Using Accelerated Computing</a></center>
+</td>
+<td>
+<a href="https://arxiv.org/abs/2407.11674/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://planetarycausalinference.org/wp-content/uploads/2025/11/Visual-Abstract-Figure-2-copy_dark.webp?w=1000&ssl=1">
+<source media="(prefers-color-scheme: light)" srcset="https://planetarycausalinference.org/wp-content/uploads/2024/11/Visual-Abstract-Figure-2-copy.webp?w=1000&ssl=1">
+<img alt="Figure" src="https://planetarycausalinference.org/wp-content/uploads/2024/11/Visual-Abstract-Figure-2-copy.webp?w=1000&ssl=1" width="400">
+</picture>
+</a>
+<center><a href="https://arxiv.org/abs/2407.11674/">Effect Heterogeneity with Earth Observation in Randomized Controlled Trials</a></center>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://doi.org/10.1017/psrm.2024.55/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im1.webp">
+<source media="(prefers-color-scheme: light)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im2.webp">
+<img alt="Figure" src="https://connorjerzak.com/wp-content/uploads/2025/11/im2.webp" width="400">
+</picture>
+</a>
+<center><a href="https://doi.org/10.1017/psrm.2024.55/">Linking Datasets on Organizations Using Half A Billion Open Collaborated Records</a></center>
+</td>
+<td>
+<a href="https://aclanthology.org/2024.nlpcss-1.5.pdf/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im3.webp">
+<source media="(prefers-color-scheme: light)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp">
+<img alt="Figure" src="https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp" width="400">
+</picture>
+</a>
+<center><a href="https://aclanthology.org/2024.nlpcss-1.5.pdf/">Can Large Language Models (or Humans) Disentangle Text?</a></center>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://planetarycausalinference.org/book-launch/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im5.webp?w=1000&ssl=1">
+<source media="(prefers-color-scheme: light)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im6.webp?w=1000&ssl=1">
+<img alt="Figure" src="https://connorjerzak.com/wp-content/uploads/2025/11/im6.webp?w=1000&ssl=1" width="400">
+</picture>
+</a>
+<center><a href="https://planetarycausalinference.org/book-launch/">Planetary Causal Inference Book</a></center>
+</td>
+<td></td>
+</tr>
 </table>
