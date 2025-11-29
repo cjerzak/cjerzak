@@ -115,7 +115,21 @@
   https://connorjerzak.com/gci-overview/#gh-dark-mode-only
 )
 
-[<img src="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz_dark.webp?w=1280&ssl=1" style="transform: scale(0.2);">](https://osf.io/preprints/osf/ums8y) 
+-
+
+[![Workflow diagram – light](
+  https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz.webp?w=1280&ssl=1#gh-light-mode-only
+)](
+  https://osf.io/preprints/osf/ums8y#gh-light-mode-only
+)
+[![Workflow diagram – dark](
+  https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz_dark.webp?w=1280&ssl=1#gh-dark-mode-only
+)](
+  https://osf.io/preprints/osf/ums8y/#gh-dark-mode-only
+)
+
+-
+[<img src="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz.webp?w=1280&ssl=1" style="transform: scale(0.2);">](https://osf.io/preprints/osf/ums8y) 
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2023/07/f1.png?w=738&ssl=1" style="transform: scale(0.5);">](https://doi.org/10.1017/psrm.2024.55) 
 
