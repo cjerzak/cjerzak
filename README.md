@@ -165,13 +165,20 @@
 
 ---
 
+<a href="https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-light-mode-only">
+  <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im6.webp" alt="Figure – light" width="500" style="max-width: 100%; height: auto;">
+</a>
+<a href="https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-dark-mode-only">
+  <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im5.webp" alt="Figure – dark" width="500" style="max-width: 100%; height: auto;">
+</a>
+
 [![Figure – light](
-  https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp?w=500&ssl=1#gh-light-mode-only
+  https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp?w=100&ssl=1#gh-light-mode-only
 )](
   https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-light-mode-only
 )
 [![Figure – dark](
-  https://connorjerzak.com/wp-content/uploads/2025/11/im3.webp?w=500&ssl=1#gh-dark-mode-only
+  https://connorjerzak.com/wp-content/uploads/2025/11/im3.webp?w=100&ssl=1#gh-dark-mode-only
 )](
   https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-dark-mode-only
 )
