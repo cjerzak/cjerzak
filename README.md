@@ -190,82 +190,121 @@
 
 <table>
 <tr>
-<td>
+<td align="center">
+
+### Earth Observation for Causal Inference — Workflow
+
 <a href="https://connorjerzak.com/gci-overview/">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1_darkmode.png">
-<source media="(prefers-color-scheme: light)" srcset="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1-scaled.png">
-<img alt="Workflow diagram" src="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1-scaled.png" width="400">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1_darkmode.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1-scaled.png">
+    <img alt="EO Causal Inference Workflow" src="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1-scaled.png">
+  </picture>
 </a>
-<center><a href="https://connorjerzak.com/gci-overview/">Earth Observation Workflow for Causal Inference</a></center>
+
 </td>
-<td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center">
+
+### Electoral Rules & Ethnic Representation
+
 <a href="https://osf.io/preprints/osf/ums8y/">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz_dark.webp?w=1280&ssl=1">
-<source media="(prefers-color-scheme: light)" srcset="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz.webp?w=1280&ssl=1">
-<img alt="Figure" src="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz.webp?w=1280&ssl=1" width="400">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz_dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz.webp">
+    <img alt="Electoral Rules Visualization" src="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz.webp">
+  </picture>
 </a>
-<center><a href="https://osf.io/preprints/osf/ums8y/">Where Minorities are the Majority: Electoral Rules and Ethnic Representation</a></center>
+
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td>
+<td align="center">
+
+### Satellite-Driven Poverty Analysis
+
 <a href="https://arxiv.org/abs/2501.07642/">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/figure1_dark.webp">
-<source media="(prefers-color-scheme: light)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/figure1.webp">
-<img alt="Figure" src="https://connorjerzak.com/wp-content/uploads/2025/11/figure1.webp" width="400">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/figure1_dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/figure1.webp">
+    <img alt="Poverty Analysis Figure" src="https://connorjerzak.com/wp-content/uploads/2025/11/figure1.webp" width="600">
+  </picture>
 </a>
-<center><a href="https://arxiv.org/abs/2501.07642/">Fast Rerandomization Using Accelerated Computing</a></center>
+
 </td>
-<td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center">
+
+### Effect Heterogeneity with Earth Observation in RCTs
+
 <a href="https://arxiv.org/abs/2407.11674/">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://planetarycausalinference.org/wp-content/uploads/2025/11/Visual-Abstract-Figure-2-copy_dark.webp?w=1000&ssl=1">
-<source media="(prefers-color-scheme: light)" srcset="https://planetarycausalinference.org/wp-content/uploads/2024/11/Visual-Abstract-Figure-2-copy.webp?w=1000&ssl=1">
-<img alt="Figure" src="https://planetarycausalinference.org/wp-content/uploads/2024/11/Visual-Abstract-Figure-2-copy.webp?w=1000&ssl=1" width="400">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://planetarycausalinference.org/wp-content/uploads/2025/11/Visual-Abstract-Figure-2-copy_dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="https://planetarycausalinference.org/wp-content/uploads/2024/11/Visual-Abstract-Figure-2-copy.webp">
+    <img alt="Effect Heterogeneity Visual Abstract" src="https://planetarycausalinference.org/wp-content/uploads/2024/11/Visual-Abstract-Figure-2-copy.webp">
+  </picture>
 </a>
-<center><a href="https://arxiv.org/abs/2407.11674/">Effect Heterogeneity with Earth Observation in Randomized Controlled Trials</a></center>
+
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td>
+<td align="center" width="50%">
+
+### Linking Datasets on Organizations
+
 <a href="https://doi.org/10.1017/psrm.2024.55/">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im1.webp">
-<source media="(prefers-color-scheme: light)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im2.webp">
-<img alt="Figure" src="https://connorjerzak.com/wp-content/uploads/2025/11/im2.webp" width="400">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im1.webp">
+    <source media="(prefers-color-scheme: light)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im2.webp">
+    <img alt="LinkOrgs Figure" src="https://connorjerzak.com/wp-content/uploads/2025/11/im2.webp" width="300">
+  </picture>
 </a>
-<center><a href="https://doi.org/10.1017/psrm.2024.55/">Linking Datasets on Organizations Using Half A Billion Open Collaborated Records</a></center>
+
 </td>
-<td>
+<td align="center" width="50%">
+
+### LLM Text Disentanglement
+
 <a href="https://aclanthology.org/2024.nlpcss-1.5.pdf/">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im3.webp">
-<source media="(prefers-color-scheme: light)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp">
-<img alt="Figure" src="https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp" width="400">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im3.webp">
+    <source media="(prefers-color-scheme: light)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp">
+    <img alt="Text Disentanglement Figure" src="https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp" width="300">
+  </picture>
 </a>
-<center><a href="https://aclanthology.org/2024.nlpcss-1.5.pdf/">Can Large Language Models (or Humans) Disentangle Text?</a></center>
+
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td>
+<td align="center">
+
+### Planetary Causal Inference — Book
+
 <a href="https://planetarycausalinference.org/book-launch/">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im5.webp?w=1000&ssl=1">
-<source media="(prefers-color-scheme: light)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im6.webp?w=1000&ssl=1">
-<img alt="Figure" src="https://connorjerzak.com/wp-content/uploads/2025/11/im6.webp?w=1000&ssl=1" width="400">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im5.webp">
+    <source media="(prefers-color-scheme: light)" srcset="https://connorjerzak.com/wp-content/uploads/2025/11/im6.webp">
+    <img alt="Planetary Causal Inference Book" src="https://connorjerzak.com/wp-content/uploads/2025/11/im6.webp">
+  </picture>
 </a>
-<center><a href="https://planetarycausalinference.org/book-launch/">Planetary Causal Inference Book</a></center>
+
 </td>
-<td></td>
 </tr>
 </table>
