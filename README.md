@@ -114,7 +114,7 @@
         <img src="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1_darkmode.png#gh-dark-mode-only" alt="Workflow Visualization" width="100%">
       </a>
       <br>
-      <sub><b>General Causal Inference Overview</b></sub>
+      <sub><b>Planetary Causal Inference Workflow</b></sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://osf.io/preprints/osf/ums8y/#gh-light-mode-only">
@@ -136,7 +136,7 @@
         <img src="https://connorjerzak.com/wp-content/uploads/2025/11/figure1_dark.webp#gh-dark-mode-only" alt="Research Figure 1" width="100%">
       </a>
       <br>
-      <sub><b>ArXiv: 2501.07642</b></sub>
+      <sub><b>Fast Rerandomization with Accelerated Computing</b></sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://arxiv.org/abs/2407.11674/#gh-light-mode-only">
@@ -146,7 +146,7 @@
         <img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/Visual-Abstract-Figure-2-copy_dark.webp?w=1000&ssl=1#gh-dark-mode-only" alt="Planetary Causal Inference" width="100%">
       </a>
       <br>
-      <sub><b>Planetary Causal Inference</b></sub>
+      <sub><b>Effect Heterogeneity with Image Sequences</b></sub>
     </td>
   </tr>
   <tr>
@@ -180,7 +180,7 @@
         <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im5.webp?w=1000&ssl=1#gh-dark-mode-only" alt="Book Launch" width="100%">
       </a>
       <br>
-      <sub><b>Book Launch</b></sub>
+      <sub><b>PCI Book Launch</b></sub>
     </td>
      <td width="50%" align="center" valign="top">
       </td>
