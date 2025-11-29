@@ -186,92 +186,87 @@
 ---
 ---
 
-<div align="center">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; max-width: 1100px; margin: 0 auto;">
+## Visualizations <a id="visualizations"></a>
 
-    <!-- Planetary causal inference workflow -->
-    <div style="border-radius: 12px; padding: 0.75rem; border: 1px solid #e5e7eb;">
-      <a href="https://connorjerzak.com/gci-overview/" style="text-decoration: none;">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1-scaled.png#gh-light-mode-only" alt="Planetary causal inference workflow – light" style="width: 100%; height: auto; border-radius: 8px;" />
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1_darkmode.png#gh-dark-mode-only" alt="Planetary causal inference workflow – dark" style="width: 100%; height: auto; border-radius: 8px;" />
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://connorjerzak.com/gci-overview/#gh-light-mode-only">
+        <img src="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1-scaled.png#gh-light-mode-only" alt="Workflow Visualization" width="100%">
       </a>
-      <p align="left" style="margin-top: 0.6rem; font-size: 0.85rem;">
-        <strong>Planetary causal inference workflow.</strong><br />
-        High-level pipeline for combining satellite imagery, covariates, and causal estimands.
-      </p>
-    </div>
-
-    <!-- Ethnic representation visualization -->
-    <div style="border-radius: 12px; padding: 0.75rem; border: 1px solid #e5e7eb;">
-      <a href="https://osf.io/preprints/osf/ums8y/" style="text-decoration: none;">
-        <img src="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz.webp?w=1280&ssl=1#gh-light-mode-only" alt="Ethnic representation visualization – light" style="width: 100%; height: auto; border-radius: 8px;" />
-        <img src="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz_dark.webp?w=1280&ssl=1#gh-dark-mode-only" alt="Ethnic representation visualization – dark" style="width: 100%; height: auto; border-radius: 8px;" />
+      <a href="https://connorjerzak.com/gci-overview/#gh-dark-mode-only">
+        <img src="https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1_darkmode.png#gh-dark-mode-only" alt="Workflow Visualization" width="100%">
       </a>
-      <p align="left" style="margin-top: 0.6rem; font-size: 0.85rem;">
-        <strong>Electoral rules &amp; descriptive representation.</strong><br />
-        Visualization of district composition and minority representation patterns.
-      </p>
-    </div>
-
-    <!-- EO & trial heterogeneity (figure 1) -->
-    <div style="border-radius: 12px; padding: 0.75rem; border: 1px solid #e5e7eb;">
-      <a href="https://arxiv.org/abs/2501.07642" style="text-decoration: none;">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/figure1.webp#gh-light-mode-only" alt="EO-driven heterogeneity figure – light" style="width: 100%; height: auto; border-radius: 8px;" />
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/figure1_dark.webp#gh-dark-mode-only" alt="EO-driven heterogeneity figure – dark" style="width: 100%; height: auto; border-radius: 8px;" />
+      <br>
+      <sub><b>General Causal Inference Overview</b></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://osf.io/preprints/osf/ums8y/#gh-light-mode-only">
+        <img src="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz.webp?w=1280&ssl=1#gh-light-mode-only" alt="Institutional Viz" width="100%">
       </a>
-      <p align="left" style="margin-top: 0.6rem; font-size: 0.85rem;">
-        <strong>Earth observation &amp; trial heterogeneity.</strong><br />
-        Example of multi-scale EO features used to study treatment effect variation.
-      </p>
-    </div>
-
-    <!-- Visual abstract: EO heterogeneity in RCTs -->
-    <div style="border-radius: 12px; padding: 0.75rem; border: 1px solid #e5e7eb;">
-      <a href="https://arxiv.org/abs/2407.11674" style="text-decoration: none;">
-        <img src="https://planetarycausalinference.org/wp-content/uploads/2024/11/Visual-Abstract-Figure-2-copy.webp?w=1000&ssl=1#gh-light-mode-only" alt="Visual abstract for EO heterogeneity in RCTs – light" style="width: 100%; height: auto; border-radius: 8px;" />
-        <img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/Visual-Abstract-Figure-2-copy_dark.webp?w=1000&ssl=1#gh-dark-mode-only" alt="Visual abstract for EO heterogeneity in RCTs – dark" style="width: 100%; height: auto; border-radius: 8px;" />
+      <a href="https://osf.io/preprints/osf/ums8y/#gh-dark-mode-only">
+        <img src="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz_dark.webp?w=1280&ssl=1#gh-dark-mode-only" alt="Institutional Viz" width="100%">
       </a>
-      <p align="left" style="margin-top: 0.6rem; font-size: 0.85rem;">
-        <strong>Effect heterogeneity with EO in randomized trials.</strong><br />
-        Visual abstract summarizing design, models, and validation strategy.
-      </p>
-    </div>
-
-    <!-- Linking datasets on organizations -->
-    <div style="border-radius: 12px; padding: 0.75rem; border: 1px solid #e5e7eb;">
-      <a href="https://doi.org/10.1017/psrm.2024.55" style="text-decoration: none;">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im2.webp#gh-light-mode-only" alt="Organizational linking visualization – light" style="width: 100%; height: auto; border-radius: 8px;" />
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im1.webp#gh-dark-mode-only" alt="Organizational linking visualization – dark" style="width: 100%; height: auto; border-radius: 8px;" />
+      <br>
+      <sub><b>Institutional Analysis</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://arxiv.org/abs/2501.07642/#gh-light-mode-only">
+        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/figure1.webp#gh-light-mode-only" alt="Research Figure 1" width="100%">
       </a>
-      <p align="left" style="margin-top: 0.6rem; font-size: 0.85rem;">
-        <strong>Linking datasets on organizations.</strong><br />
-        Large-scale record linkage across half a billion collaboration records.
-      </p>
-    </div>
-
-    <!-- Text disentanglement & LLMs -->
-    <div style="border-radius: 12px; padding: 0.75rem; border: 1px solid #e5e7eb;">
-      <a href="https://aclanthology.org/2024.nlpcss-1.5.pdf" style="text-decoration: none;">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp#gh-light-mode-only" alt="Text disentanglement visualization – light" style="width: 100%; height: auto; border-radius: 8px;" />
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im3.webp#gh-dark-mode-only" alt="Text disentanglement visualization – dark" style="width: 100%; height: auto; border-radius: 8px;" />
+      <a href="https://arxiv.org/abs/2501.07642/#gh-dark-mode-only">
+        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/figure1_dark.webp#gh-dark-mode-only" alt="Research Figure 1" width="100%">
       </a>
-      <p align="left" style="margin-top: 0.6rem; font-size: 0.85rem;">
-        <strong>Can LLMs disentangle text features?</strong><br />
-        Illustration of experimental design for text-based causal inference.
-      </p>
-    </div>
-
-    <!-- Planetary Causal Inference book -->
-    <div style="border-radius: 12px; padding: 0.75rem; border: 1px solid #e5e7eb;">
-      <a href="https://planetarycausalinference.org/book-launch/" style="text-decoration: none;">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im6.webp?w=1000&ssl=1#gh-light-mode-only" alt="Planetary Causal Inference book visualization – light" style="width: 100%; height: auto; border-radius: 8px;" />
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im5.webp?w=1000&ssl=1#gh-dark-mode-only" alt="Planetary Causal Inference book visualization – dark" style="width: 100%; height: auto; border-radius: 8px;" />
+      <br>
+      <sub><b>ArXiv: 2501.07642</b></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://arxiv.org/abs/2407.11674/#gh-light-mode-only">
+        <img src="https://planetarycausalinference.org/wp-content/uploads/2024/11/Visual-Abstract-Figure-2-copy.webp?w=1000&ssl=1#gh-light-mode-only" alt="Planetary Causal Inference" width="100%">
       </a>
-      <p align="left" style="margin-top: 0.6rem; font-size: 0.85rem;">
-        <strong>Planetary Causal Inference (book).</strong><br />
-        Concept art and case-study map for the PCI book project.
-      </p>
-    </div>
-
-  </div>
-</div>
+      <a href="https://arxiv.org/abs/2407.11674/#gh-dark-mode-only">
+        <img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/Visual-Abstract-Figure-2-copy_dark.webp?w=1000&ssl=1#gh-dark-mode-only" alt="Planetary Causal Inference" width="100%">
+      </a>
+      <br>
+      <sub><b>Planetary Causal Inference</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://doi.org/10.1017/psrm.2024.55/#gh-light-mode-only">
+        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im2.webp#gh-light-mode-only" alt="PSRM Figure" width="100%">
+      </a>
+      <a href="https://doi.org/10.1017/psrm.2024.55/#gh-dark-mode-only">
+        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im1.webp#gh-dark-mode-only" alt="PSRM Figure" width="100%">
+      </a>
+      <br>
+      <sub><b>PSRM 2024</b></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-light-mode-only">
+        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp#gh-light-mode-only" alt="ACL Anthology" width="100%">
+      </a>
+      <a href="https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-dark-mode-only">
+        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im3.webp#gh-dark-mode-only" alt="ACL Anthology" width="100%">
+      </a>
+      <br>
+      <sub><b>ACL Anthology</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://planetarycausalinference.org/book-launch/#gh-light-mode-only">
+        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im6.webp?w=1000&ssl=1#gh-light-mode-only" alt="Book Launch" width="100%">
+      </a>
+      <a href="https://planetarycausalinference.org/book-launch/#gh-dark-mode-only">
+        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im5.webp?w=1000&ssl=1#gh-dark-mode-only" alt="Book Launch" width="100%">
+      </a>
+      <br>
+      <sub><b>Book Launch</b></sub>
+    </td>
+     <td width="50%" align="center" valign="top">
+      </td>
+  </tr>
+</table>
