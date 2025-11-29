@@ -109,14 +109,13 @@
 )](
   https://connorjerzak.com/gci-overview/#gh-light-mode-only
 )
-
 [![Workflow diagram – dark](
   https://connorjerzak.com/wp-content/uploads/2025/04/EO_WorkflowVizV9_1_darkmode.png#gh-dark-mode-only
 )](
   https://connorjerzak.com/gci-overview/#gh-dark-mode-only
 )
 
-[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/InstViz.png?w=1280&ssl=1" style="transform: scale(0.2);">](https://osf.io/preprints/osf/ums8y) 
+[<img src="https://globalleadershipproject.net/wp-content/uploads/2025/11/InstViz_dark.webp?w=1280&ssl=1" style="transform: scale(0.2);">](https://osf.io/preprints/osf/ums8y) 
 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2023/07/f1.png?w=738&ssl=1" style="transform: scale(0.5);">](https://doi.org/10.1017/psrm.2024.55) 
 
