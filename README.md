@@ -143,8 +143,6 @@
 
 ---
 
-[<img src="https://planetarycausalinference.org/wp-content/uploads/2024/11/Visual-Abstract-Figure-2-copy.webp?w=1000&ssl=1" style="transform: scale(0.5);">]() 
-
 [![Figure – light](
   https://planetarycausalinference.org/wp-content/uploads/2024/11/Visual-Abstract-Figure-2-copy.webp?w=1000&ssl=1#gh-light-mode-only
 )](
