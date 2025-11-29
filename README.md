@@ -152,8 +152,6 @@
 
 ---
 
-[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2023/07/f1.png?w=738&ssl=1" style="transform: scale(0.5);">](https://doi.org/10.1017/psrm.2024.55) 
-
 [![Figure – light](
   https://connorjerzak.com/wp-content/uploads/2025/11/im2.webp?w=1000&ssl=1#gh-light-mode-only
 )](
@@ -167,8 +165,6 @@
 
 ---
 
-[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/10/BookVAbstract.png?resize=640%2C407&ssl=1" style="transform: scale(0.5);">](https://connorjerzak.com/planetary-causal-inference/) 
-
 [![Figure – light](
   https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp?w=1000&ssl=1#gh-light-mode-only
 )](
@@ -181,8 +177,6 @@
 )
 
 ---
-
-[<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/CanLLMsViz.png?w=1232&ssl=1" style="transform: scale(0.5);">](https://aclanthology.org/2024.nlpcss-1.5.pdf) 
 
 [![Figure – light](
   https://connorjerzak.com/wp-content/uploads/2025/11/im6.webp?w=1000&ssl=1#gh-light-mode-only
