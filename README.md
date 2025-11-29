@@ -166,14 +166,14 @@
 ---
 
 [![Figure – light](
-  https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp?w=1000&ssl=1#gh-light-mode-only
+  https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp?w=500&ssl=1#gh-light-mode-only
 )](
-  https://planetarycausalinference.org/book-launch//#gh-light-mode-only
+  https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-light-mode-only
 )
 [![Figure – dark](
-  https://connorjerzak.com/wp-content/uploads/2025/11/im3.webp?w=1000&ssl=1#gh-dark-mode-only
+  https://connorjerzak.com/wp-content/uploads/2025/11/im3.webp?w=500&ssl=1#gh-dark-mode-only
 )](
-  https://planetarycausalinference.org/book-launch//#gh-dark-mode-only
+  https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-dark-mode-only
 )
 
 ---
@@ -181,12 +181,12 @@
 [![Figure – light](
   https://connorjerzak.com/wp-content/uploads/2025/11/im6.webp?w=1000&ssl=1#gh-light-mode-only
 )](
-  https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-light-mode-only
+  https://planetarycausalinference.org/book-launch/#gh-light-mode-only
 )
 [![Figure – dark](
   https://connorjerzak.com/wp-content/uploads/2025/11/im5.webp?w=1000&ssl=1#gh-dark-mode-only
 )](
-  https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-dark-mode-only
+  https://planetarycausalinference.org/book-launch/#gh-dark-mode-only
 )
 
 ---
