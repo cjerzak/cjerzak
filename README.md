@@ -165,11 +165,11 @@
 
 ---
 
-<a href="https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-light-mode-only">
-  <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im6.webp" alt="Figure – light" width="500" style="max-width: 100%; height: auto;">
+<a href="https://aclanthology.org/2024.nlpcss-1.5.pdf">
+  <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im4.webp#gh-light-mode-only" alt="Figure – light" width="300">
 </a>
-<a href="https://aclanthology.org/2024.nlpcss-1.5.pdf/#gh-dark-mode-only">
-  <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im5.webp" alt="Figure – dark" width="500" style="max-width: 100%; height: auto;">
+<a href="https://arxiv.org/abs/2501.07642/#gh-dark-mode-only">
+  <img src="https://connorjerzak.com/wp-content/uploads/2025/11/im3.webp#gh-dark-mode-only" alt="Figure – dark" width="300">
 </a>
 
 [![Figure – light](
