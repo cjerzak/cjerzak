@@ -2,7 +2,7 @@
 **cjerzak/cjerzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[**Bio**](#bio) | [**Papers**](#installation) {[_Substantive_](#substantive), [_Methodological_](#methodological)} | [**Visualizations**](#visualizations) | [**Students**](#students)
+[**Bio**](#bio) | [**Papers**](#installation) {[_Substantive_](#substantive), [_Methodological_](#methodological)} | [**Visualizations**](#visualizations) | [**Students**](#students) 
 
 ## Bio<a id="bio"></a>
 *Present:* <br>
@@ -17,7 +17,7 @@
 
 *Substantive work:* Political economy, social movements, descriptive representation. 
 
-[[CV]](https://connorjerzak.com/wp-content/uploads/2023/01/ConnorJerzakCV.pdf) [[Homepage]](https://connorjerzak.com) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/JerzakConnorBib.txt) 
+[[CV]](https://connorjerzak.com/wp-content/uploads/2023/01/ConnorJerzakCV.pdf) [[Homepage]](https://connorjerzak.com) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/JerzakConnorBib.txt) [[logs]](https://connorjerzak.com/logs)
 
 [[Team]](https://connorjerzak.com/collaborators/) [[Students]](https://connorjerzak.com/students/) 
 
