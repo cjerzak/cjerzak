@@ -86,7 +86,7 @@
 
 [[Linking Datasets on Organizations Using Half A Billion Open Collaborated Records]](https://doi.org/10.1017/psrm.2024.55) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/LinkOrgsBib.txt) [[Code]](https://github.com/cjerzak/LinkOrgs-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/LinkOrgs-software?style=social)](https://github.com/cjerzak/LinkOrgs-software)
 
-[[Degrees of Randomness in Rerandomization Procedures]](https://arxiv.org/abs/2310.00861) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/LinkOrgsBib.txt) [[Code]](https://github.com/cjerzak/fastrerandomize-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/fastrerandomize-software?style=social)](https://github.com/cjerzak/fastrerandomize-software)
+[[Fast Rerandomization Using Accelerated Computing]](https://arxiv.org/abs/2501.07642) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/LinkOrgsBib.txt) [[Code]](https://github.com/cjerzak/fastrerandomize-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/fastrerandomize-software?style=social)](https://github.com/cjerzak/fastrerandomize-software)
 
 ### Substantive <a id="substantive"></a>
 
