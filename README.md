@@ -82,6 +82,8 @@
 
 #### Planetary Causal Inference (Earth Observation & Machine Learning)
 
+* **Planetary Causal Inference: Understanding the Environment, Society, and Economy through Earth Observation and AI Systems (Cambridge University Press 2026+)** – Connor T. Jerzak, Adel Daoud.  Book project on Planetary Causal Inference, capturing efforts in an emerging field to combine satellite imagery and planetary-scale data sources with localized studies, especially RCTs, to derive insights about causality.  [[More]](https://planetarycausalinference.org/book-launch/)
+
 * **Debiasing Machine Learning Predictions for Causal Inference Without Additional Ground Truth Data: “One Map, Many Trials” in Satellite-Driven Poverty Analysis (AAAI 2026)** – Markus Pettersson, Connor T. Jerzak, Adel Daoud.  Proposes methods to debias ML predictions for causal inference in poverty mapping.  [[PDF]](https://arxiv.org/abs/2508.01341) [[.bib]](https://aidevlab.org/wp-content/uploads/2025/08/TweedieBib.txt) [[Code]](https://github.com/AIandGlobalDevelopmentLab/unshrink) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/unshrink?style=social)](https://github.com/AIandGlobalDevelopmentLab/unshrink)
 
 * **Optimizing Multi-Scale Representations to Detect Effect Heterogeneity Using Earth Observation and Computer Vision: Applications to Two Anti-Poverty RCTs (CLeaR 2025)** – Warren Zhu Fucheng, Connor T. Jerzak, Adel Daoud.  Develops multi-scale image representations to discover treatment effect heterogeneity in randomized controlled trials.  [[PDF]](https://arxiv.org/abs/2411.02134) [[Video]](https://www.youtube.com/watch?v=RvAoJGMlKAI&t=33s) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/11/MultilevelBib.txt)
