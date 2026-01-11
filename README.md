@@ -130,10 +130,10 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://arxiv.org/abs/2501.07642/#gh-light-mode-only">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/figure1.webp#gh-light-mode-only" alt="Research Figure 1" width="100%">
+        <img src="https://connorjerzak.com/wp-content/uploads/2026/01/CPU_v_GPU_FALSE_100_light.webp#gh-light-mode-only" alt="Research Figure 1" width="100%">
       </a>
       <a href="https://arxiv.org/abs/2501.07642/#gh-dark-mode-only">
-        <img src="https://connorjerzak.com/wp-content/uploads/2025/11/figure1_dark.webp#gh-dark-mode-only" alt="Research Figure 1" width="100%">
+        <img src="https://connorjerzak.com/wp-content/uploads/2026/01/CPU_v_GPU_FALSE_100_dark.webp#gh-dark-mode-only" alt="Research Figure 1" width="100%">
       </a>
       <br>
       <sub><b>Fast Rerandomization with Accelerated Computing</b></sub>
