@@ -66,8 +66,6 @@
 
 ## Papers (Selected) <a id="papers"></a>
 
-### Methodological <a id="methodological"></a>
-
 [[Debiasing Machine Learning Predictions for Causal Inference Without Additional Ground Truth Data: "One Map, Many Trials" in Satellite-Driven Poverty Analysis]](https://arxiv.org/abs/2508.01341)  [[.bib]](https://aidevlab.org/wp-content/uploads/2025/08/TweedieBib.txt)* [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/unshrink?style=social)](https://github.com/AIandGlobalDevelopmentLab/unshrink)
 
 [[Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice]](https://arxiv.org/abs/2407.11674) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/ImSeqHetero.txt)*
