@@ -88,8 +88,6 @@
 
 [[Fast Rerandomization Using Accelerated Computing]](https://arxiv.org/abs/2501.07642) [[.bib]](https://connorjerzak.com/wp-content/uploads/2025/01/FastReandomizeBib.txt) [[Code]](https://github.com/cjerzak/fastrerandomize-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/fastrerandomize-software?style=social)](https://github.com/cjerzak/fastrerandomize-software)
 
-### Substantive <a id="substantive"></a>
-
 [[Where Minorities are the Majority: Electoral Rules and Ethnic Representation]](https://osf.io/preprints/osf/ums8y) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/WhereTheMinoritiesBib.txt)
 
 [[The Composition of Descriptive Representation]](https://www.cambridge.org/core/journals/american-political-science-review/article/composition-of-descriptive-representation/7EAEA1CA4C553AB9D76054D1FA9C0840) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/CompositionBib.txt) [[Code]](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/DescriptiveRepresentationCalculator-software?style=social)](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software)
