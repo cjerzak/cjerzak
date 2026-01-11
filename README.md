@@ -100,7 +100,7 @@
 
 * **FastRerandomize: Fast Rerandomization Using Accelerated Computing (SoftwareX 2026)** – Connor T. Jerzak, Rebecca Goldstein, Aniket Kamat, Fucheng Warren Zhu.  Presents an efficient algorithm for rerandomization of experiments, leveraging accelerated computing.  [[PDF]](https://arxiv.org/abs/2501.07642) [[.bib]](https://connorjerzak.com/wp-content/uploads/2025/01/FastReandomizeBib.txt) [[Code]](https://github.com/cjerzak/fastrerandomize-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/fastrerandomize-software?style=social)](https://github.com/cjerzak/fastrerandomize-software)
 
-* **Selecting Optimal Candidate Profiles in Adversarial Environments Using Conjoint Analysis and Machine Learning** – Connor T. Jerzak, Priyanshi Chandra, Rishi Hazra.  Develops a framework to identify candidate profiles that remain robust when voters evaluate profiles strategically.  [[PDF]](https://arxiv.org/pdf/2504.19043) [[.bib]](https://connorjerzak.com/wp-content/uploads/2025/01/OptimalConjointBib.txt)
+* **Selecting Optimal Candidate Profiles in Adversarial Environments Using Conjoint Analysis and Machine Learning** – Connor T. Jerzak, Priyanshi Chandra, Rishi Hazra.  Develops a framework to identify candidate profiles that remain robust when voters evaluate profiles strategically.  [[PDF]](https://arxiv.org/pdf/2504.19043) [[.bib]](https://connorjerzak.com/wp-content/uploads/2025/04/Strat.txt)
 
 * **Attenuation Bias with Latent Predictors** – Connor T. Jerzak, Stephen Jessee.  Explores how measurement error in latent predictors can attenuate causal estimates and proposes corrections.  [[PDF]](https://arxiv.org/pdf/2507.22218) [[.bib]](https://connorjerzak.com/wp-content/uploads/2025/08/LatentErrorBib.txt)
 
