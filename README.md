@@ -66,9 +66,9 @@
 
 ## Papers (Selected) <a id="papers"></a>
 
-## Methodological Projects
+### Methodological Projects
 
-### Text-based AI Systems
+#### Text-based AI Systems
 
 * **Benchmarking Debiasing Methods for LLM-based Parameter Estimates (EMNLP 2025)** – Nicolas Audinet de Pieuchon, Adel Daoud, Connor T. Jerzak, Moa Johansson, Richard Johansson.  This paper benchmarks different techniques for removing bias from LLM-generated labels, showing that combining large-scale LLM annotations with a modest number of expert labels can reduce bias and improve parameter estimation.  [[PDF]](https://aclanthology.org/2025.emnlp-main.0) [[.bib]](https://connorjerzak.com/wp-content/uploads/2025/08/BenchmarkingBib.txt) [[Video]](https://youtube.com/watch?v=h8joTvlvEGI) [[Slides]](https://connorjerzak.com/benchmarking-ppi-dsl/) [[Data]](https://huggingface.co/datasets/nicaudinet/llm-debiasing-benchmark)
 
@@ -80,7 +80,7 @@
 
 * **An Improved Method of Automated Non-Parametric Content Analysis for Social Science (Political Analysis 2023)** – Connor T. Jerzak, Gary King, Anton Strezhnev.  Presents an enhanced non-parametric content-analysis approach that automates the extraction of substantive information from text.  [[PDF]](https://gking.harvard.edu/files/gking/files/div-class-title-an-improved-method-of-automated-nonparametric-content-analysis-for-social-science-div.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/Readme2Bib.txt) [[Code]](https://github.com/iqss-research/readme-software) [![GitHub Repo stars](https://img.shields.io/github/stars/iqss-research/readme-software?style=social)](https://github.com/iqss-research/readme-software)
 
-### Planetary Causal Inference (Earth Observation & Machine Learning)
+#### Planetary Causal Inference (Earth Observation & Machine Learning)
 
 * **Debiasing Machine Learning Predictions for Causal Inference Without Additional Ground Truth Data: “One Map, Many Trials” in Satellite-Driven Poverty Analysis (AAAI 2026)** – Markus Pettersson, Connor T. Jerzak, Adel Daoud.  Proposes methods to debias ML predictions for causal inference in poverty mapping.  [[PDF]](https://arxiv.org/abs/2508.01341) [[.bib]](https://aidevlab.org/wp-content/uploads/2025/08/TweedieBib.txt) [[Code]](https://github.com/AIandGlobalDevelopmentLab/unshrink) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/unshrink?style=social)](https://github.com/AIandGlobalDevelopmentLab/unshrink)
 
@@ -96,7 +96,7 @@
 
 * **Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?** – Satiyabooshan Murugaboopathy, Connor T. Jerzak, Adel Daoud.  Investigates whether unified vision–language models can represent poverty or if generative agents create novel representations.  [[PDF]](https://arxiv.org/pdf/2508.01109) [[.bib]](https://aidevlab.org/wp-content/uploads/2025/08/PlatonicBib.txt) [[Data]](https://huggingface.co/datasets/theaidevlab/IWI-Africa-Multimodal)
 
-### Causal Inference
+#### Causal Inference
 
 * **FastRerandomize: Fast Rerandomization Using Accelerated Computing (SoftwareX 2026)** – Connor T. Jerzak, Rebecca Goldstein, Aniket Kamat, Fucheng Warren Zhu.  Presents an efficient algorithm for rerandomization of experiments, leveraging accelerated computing.  [[PDF]](https://arxiv.org/abs/2501.07642) [[.bib]](https://connorjerzak.com/wp-content/uploads/2025/01/FastReandomizeBib.txt) [[Code]](https://github.com/cjerzak/fastrerandomize-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/fastrerandomize-software?style=social)](https://github.com/cjerzak/fastrerandomize-software)
 
@@ -104,23 +104,23 @@
 
 * **Attenuation Bias with Latent Predictors** – Connor T. Jerzak, Stephen Jessee.  Explores how measurement error in latent predictors can attenuate causal estimates and proposes corrections.  [[PDF]](https://arxiv.org/pdf/2507.22218) [[.bib]](https://connorjerzak.com/wp-content/uploads/2025/08/LatentErrorBib.txt)
 
-### Computational Infrastructure
+#### Computational Infrastructure
 
 * **CausalImages: An R Package for Causal Inference with Earth Observation, Biomedical and Social Science Images** – Connor T. Jerzak, Adel Daoud.  Introduces an R package for performing causal inference directly on image and image-sequence data.  [[PDF]](https://arxiv.org/abs/2310.00233) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/CausalImagesBib.txt) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
-## Substantive Projects
+### Substantive Projects
 
-### Comparative Politics
+#### Comparative Politics
 
 * **Where Minorities are the Majority: Electoral Rules and Ethnic Representation (2024)** – John Gerring, Alan Hicken, Connor T. Jerzak, Robert Moser, Erzen Öncel.  Studies how electoral rules affect ethnic minority representation when minorities constitute a local majority.  [[PDF]](https://osf.io/preprints/osf/ums8y) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/WhereTheMinoritiesBib.txt)
 
 * **The Composition of Descriptive Representation (APSR 2024)** – John Gerring, Connor T. Jerzak, Erzen Öncel.  Analyzes how descriptive representation is composed and which demographic attributes drive voters’ preferences.  [[PDF]](https://www.cambridge.org/core/journals/american-political-science-review/article/composition-of-descriptive-representation/7EAEA1CA4C553AB9D76054D1FA9C0840) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/CompositionBib.txt) [[Code]](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/DescriptiveRepresentationCalculator-software?style=social)](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software)
 
-### Political Economy
+#### Political Economy
 
 * **Housing Values and Partisanship: Evidence from E-ZPass (Research in Transportation Economics 2020)** – Connor T. Jerzak, Brian Libgober.  Assesses how the introduction of the E-ZPass toll system influenced housing values and partisan voting patterns.  [[PDF]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/EZPassBib.txt)
 
-### Social Movements
+#### Social Movements
 
 * **Football fandom in Egypt (Routledge Handbook of Sport in the Middle East 2022)** – Connor T. Jerzak.  Examines the intersection of football fandom and social identity in Egypt.  [[PDF]](https://connorjerzak.com/wp-content/uploads/2022/06/Jerzak_FootballFandomInEgypt.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/FandomBib.txt)
 
