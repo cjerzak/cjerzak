@@ -2,7 +2,7 @@
 **cjerzak/cjerzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[**Bio**](#bio) | [**Papers**](#papers) | [**Visualizations**](#visualizations) | [**Students**](#students) 
+[**Bio**](#bio) | [**Papers**](#papers) | [**Visuals**](#visualizations) | [**Students**](#students) 
 
 ## Bio<a id="bio"></a>
 *Present:* <br>
@@ -128,7 +128,7 @@
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1" style="transform: scale(1);">](https://connorjerzak.com/gci-overview/) 
 -->
 
-## Visualizations <a id="visualizations"></a>
+## Visualizations from Research <a id="visualizations"></a>
 
 <table>
   <tr>
