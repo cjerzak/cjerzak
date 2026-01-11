@@ -94,7 +94,7 @@
   
 * **Integrating Earth Observation Data into Causal Inference: Challenges and Opportunities** – Connor T. Jerzak, Fredrik Johansson, Adel Daoud.  Outlines challenges and strategies for incorporating satellite imagery into causal inference and shows that high-resolution satellite data can help adjust for confounders.  [[PDF]](https://arxiv.org/pdf/2301.12985.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/EOCausal.txt) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
-* **Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?** – Satiyabooshan Murugaboopathy, Connor T. Jerzak, Adel Daoud.  Investigates whether unified vision–language models can represent poverty or if generative agents create novel representations.  [[PDF]](https://arxiv.org/abs/2412.00000) [[.bib]](https://connorjerzak.com/wp-content/uploads/2025/01/PlatonicBib.txt) [[Data]](https://huggingface.co/datasets/theaidevlab/IWI-Africa-Multimodal)
+* **Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?** – Satiyabooshan Murugaboopathy, Connor T. Jerzak, Adel Daoud.  Investigates whether unified vision–language models can represent poverty or if generative agents create novel representations.  [[PDF]](https://arxiv.org/pdf/2508.01109) [[.bib]](https://aidevlab.org/wp-content/uploads/2025/08/PlatonicBib.txt) [[Data]](https://huggingface.co/datasets/theaidevlab/IWI-Africa-Multimodal)
 
 ### Causal Inference
 
