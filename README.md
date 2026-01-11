@@ -88,7 +88,7 @@
 
 * **A Scoping Review of Earth Observation and Machine Learning for Causal Inference: Implications for the Geography of Poverty (2025)** – Kazuki Sakamoto, Connor T. Jerzak, Adel Daoud.  Reviews the literature on combining earth-observation data with machine learning for causal inference.  [[PDF]](https://arxiv.org/abs/2406.02584) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/PlanetaryCausal.txt) [[Data]](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review) [![GitHub Repo stars](https://img.shields.io/github/stars/AIandGlobalDevelopmentLab/eo-poverty-review?style=social)](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)
 
-* **Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice (ArXiv 2024)** – Connor T. Jerzak, Ritwik Vashistha, Adel Daoud.  Examines how data quality, model selection and evaluation metrics affect detection of effect heterogeneity when using earth-observation images.  [[PDF]](https://arxiv.org/abs/2407.11674) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/ImSeqHetero.txt)
+* **Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice** – Connor T. Jerzak, Ritwik Vashistha, Adel Daoud.  Examines how data quality, model selection and evaluation metrics affect detection of effect heterogeneity when using earth-observation images.  [[PDF]](https://arxiv.org/abs/2407.11674) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/ImSeqHetero.txt)
 
 * **Image-based Treatment Effect Heterogeneity (CLeaR 2023)** – Connor T. Jerzak, Fredrik Johansson, Adel Daoud.  Introduces methods for estimating heterogenous treatment effects directly from images.  [[PDF]](https://arxiv.org/pdf/2206.06417.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/ImageHetBib.txt) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
   
@@ -102,11 +102,11 @@
 
 * **Selecting Optimal Candidate Profiles in Adversarial Environments Using Conjoint Analysis and Machine Learning** – Connor T. Jerzak, Priyanshi Chandra, Rishi Hazra.  Develops a framework to identify candidate profiles that remain robust when voters evaluate profiles strategically.  [[PDF]](https://arxiv.org/pdf/2504.19043) [[.bib]](https://connorjerzak.com/wp-content/uploads/2025/01/OptimalConjointBib.txt)
 
-* **Attenuation Bias with Latent Predictors (ArXiv 2025)** – Connor T. Jerzak, Stephen Jessee.  Explores how measurement error in latent predictors can attenuate causal estimates and proposes corrections.  [[PDF]](https://arxiv.org/pdf/2507.22218) [[.bib]](https://connorjerzak.com/wp-content/uploads/2025/01/AttenuationBib.txt)
+* **Attenuation Bias with Latent Predictors** – Connor T. Jerzak, Stephen Jessee.  Explores how measurement error in latent predictors can attenuate causal estimates and proposes corrections.  [[PDF]](https://arxiv.org/pdf/2507.22218) [[.bib]](https://connorjerzak.com/wp-content/uploads/2025/01/AttenuationBib.txt)
 
 ### Computational Infrastructure
 
-* **CausalImages: An R Package for Causal Inference with Earth Observation, Biomedical and Social Science Images (ArXiv 2023)** – Connor T. Jerzak, Adel Daoud.  Introduces an R package for performing causal inference directly on image and image-sequence data.  [[PDF]](https://arxiv.org/abs/2310.00233) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/CausalImagesBib.txt) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
+* **CausalImages: An R Package for Causal Inference with Earth Observation, Biomedical and Social Science Images** – Connor T. Jerzak, Adel Daoud.  Introduces an R package for performing causal inference directly on image and image-sequence data.  [[PDF]](https://arxiv.org/abs/2310.00233) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/CausalImagesBib.txt) [[Code]](https://github.com/cjerzak/causalimages-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/causalimages-software?style=social)](https://github.com/cjerzak/causalimages-software)
 
 ## Substantive Projects
 
