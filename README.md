@@ -120,7 +120,7 @@
 
 #### Political Economy
 
-* **Housing Values and Partisanship: Evidence from E-ZPass (Research in Transportation Economics 2020)** – Connor T. Jerzak, Brian Libgober.  _Assesses how the introduction of the E-ZPass toll system influenced housing values and partisan voting patterns._  [[PDF]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/EZPassBib.txt)
+* **The Impact of a Transportation Intervention on Electoral Politics: Evidence from E-ZPass (Research in Transportation Economics 2020)** – Connor T. Jerzak, Brian Libgober.  _Assesses how the introduction of the E-ZPass toll system influenced housing values and partisan voting patterns._  [[PDF]](https://connorjerzak.com/wp-content/uploads/2022/12/PoliticalEffects_EZPass.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/EZPassBib.txt)
 
 #### Social Movements
 
