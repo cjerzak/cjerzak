@@ -28,11 +28,11 @@
 [[YouTube Tutorials]](https://connorjerzak.com/videos) [[Data Assets]](https://connorjerzak.com/data/)
 
 <a href="https://planetarycausalinference.org/book-launch/#gh-light-mode-only">
-  <img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book.png#gh-light-mode-only" alt="Workflow diagram – light" width="200">
+  <img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book.png#gh-light-mode-only" alt="Workflow diagram – light" width="100">
 </a>
 
 <a href="https://planetarycausalinference.org/book-launch/#gh-dark-mode-only">
-  <img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book_dark.png#gh-dark-mode-only" alt="Workflow diagram – dark" width="200">
+  <img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book_dark.png#gh-dark-mode-only" alt="Workflow diagram – dark" width="100">
 </a>
 
 ## Ethos<a id="ethos"></a>
