@@ -2,7 +2,7 @@
 **cjerzak/cjerzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[**Bio**](#bio) | [**Papers**](#papers) | [**Visuals**](#visualizations) | [**Students**](#students) 
+[**Bio**](#bio) | [**Ethos**](#ethos)  | [**Papers**](#papers) | [**Visuals**](#visualizations) | [**Students**](#students) 
 
 ## Bio<a id="bio"></a>
 *Present:* <br>
@@ -37,7 +37,7 @@
   <img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book_dark.png#gh-dark-mode-only" alt="Workflow diagram – dark" width="200">
 </a>
 
-## Ethos
+## Ethos<a id="ethos"></a>
 
 At UT Austin, we train students to become full-stack researchers—and increasingly, designers of the systems that do research. Our students learn to carry projects end-to-end: from idea generation and theory to data creation, analysis, and iterative refinement across diverse subfields. Using modern AI (including agentic workflows) and scalable computation, students build reproducible pipelines that can ingest and update planetary-scale data—like satellite imagery and other high-dimensional sources. But the goal isn’t tool use for its own sake: students learn to set the objectives, constraints, and evaluation standards that guide these systems through large spaces of hypotheses, while grounding results in causal inference and careful measurement. The outcome is scholarship that can rigorously test policy counterfactuals and translate evidence into durable, responsible improvements in societal well-being.
 
