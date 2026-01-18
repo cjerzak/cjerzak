@@ -20,10 +20,9 @@
 [[CV]](https://connorjerzak.com/wp-content/uploads/2023/01/ConnorJerzakCV.pdf) [[Homepage]](https://connorjerzak.com) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/JerzakConnorBib.txt) [[logs]](https://connorjerzak.com/logs)
 
 [[Team]](https://connorjerzak.com/collaborators/) [[Students]](https://connorjerzak.com/students/) 
+[[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) 
 
 [[PlanetaryCausalInference.org]](https://planetarycausalinference.org/) [[AI & Global Dev Lab GitHub]](https://github.com/AIandGlobalDevelopmentLab/) 
-
-[[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) 
 
 [[YouTube Tutorials]](https://connorjerzak.com/videos) [[Data Assets]](https://connorjerzak.com/data/)
 
