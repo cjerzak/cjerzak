@@ -23,7 +23,7 @@ We welcome students at every stage to engage with projects—from motivated high
 
 *Substantive work:* Political economy, social movements, descriptive representation. 
 
-[[CV]](https://connorjerzak.com/wp-content/uploads/2023/01/ConnorJerzakCV.pdf) [[Homepage]](https://connorjerzak.com) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/JerzakConnorBib.txt) [[logs]](https://connorjerzak.com/logs)
+[[CV]](https://connorjerzak.com/wp-content/uploads/2023/01/ConnorJerzakCV.pdf) [[Homepage]](https://connorjerzak.com) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/JerzakConnorBib.txt) [[logs]](https://connorjerzak.com/logs) [[arXiv]](https://arxiv.org/a/jerzak_c_1.html)
 
 [[Team]](https://connorjerzak.com/collaborators/) [[Students]](https://connorjerzak.com/students/) 
 [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) 
