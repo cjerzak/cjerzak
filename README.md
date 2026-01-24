@@ -220,3 +220,9 @@ We welcome students at every stage to engage with projects—from motivated high
   </tr>
 </table>
 
+## Motto 
+
+"Nullius in verba" — motto of the [Royal Society](https://royalsociety.org/about-us/who-we-are/history/) (adopted 1662), meaning "take nobody’s word for it": verify claims by experiment, evidence, and first-principles reasoning. 
+
+
+
