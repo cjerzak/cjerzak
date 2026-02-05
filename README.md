@@ -109,7 +109,7 @@ We welcome students at every stage to engage with projects—from motivated high
 
 * **Selecting Optimal Candidate Profiles in Adversarial Environments Using Conjoint Analysis and Machine Learning** – Connor T. Jerzak, Priyanshi Chandra, Rishi Hazra.  _Develops a framework to identify candidate profiles that remain robust when voters evaluate profiles strategically._  [[PDF]](https://arxiv.org/pdf/2504.19043) [[.bib]](https://connorjerzak.com/wp-content/uploads/2025/04/Strat.txt)
 
-* **Attenuation Bias with Latent Predictors** – Connor T. Jerzak, Stephen Jessee.  _Explores how measurement error in latent predictors can attenuate causal estimates and proposes corrections._  [[PDF]](https://arxiv.org/pdf/2507.22218) [[.bib]](https://connorjerzak.com/wp-content/uploads/2025/08/LatentErrorBib.txt)
+* **Attenuation Bias with Latent Predictors** – Connor T. Jerzak, Stephen Jessee.  _Explores how measurement error in latent predictors can attenuate causal estimates and proposes corrections._  [[PDF]](https://arxiv.org/pdf/2507.22218) [[.bib]](https://connorjerzak.com/wp-content/uploads/2025/08/LatentErrorBib.txt) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/lpmec-software?style=social)](https://github.com/cjerzak/lpmec-software)
 
 #### Computational Infrastructure
 
