@@ -60,6 +60,7 @@ We welcome students at every stage to engage with projects—from motivated high
 -   [**Nicolas Audinet de Pieuchon**](https://nicaudinet.github.io/) presents: [*Can Large Language Models (or Humans) Disentangle Text?*](https://connorjerzak.com/transcript-disentangle-video/)
 -   [**Adel Daoud**](https://adeldaoud.com/) presents: [*A First Course in Planetary Causal Inference: Confounding*](https://planetarycausalinference.org/transcript-pci-tutorial-2025/) (@IC2S2 2025)
 -   [**Adel Daoud**](https://adeldaoud.com/) presents: [*Planetary Causal Inference*: Overview](https://planetarycausalinference.org/transcript-pci-seminar-yale/) (@Yale)
+-  [**Connor Jerzak**](https://connorjerzak.com/) presents: [*Fast Rerandomization Using Accelerated Computing*](https://connorjerzak.com/transcript-fast-rerandomization/) 
 -   [**Connor Jerzak**](https://connorjerzak.com/) presents: [*Seeing Like a Satellite While Learning Across Scales: Remote Audits + Multi-Scale Optimization for Heterogeneity*](https://planetarycausalinference.org/transcript-seeing-like-a-satellite/) (@Columbia)
 -   [**Connor Jerzak**](https://connorjerzak.com/) presents: *[Selecting Optimal Candidate Profiles in Adversarial Environments](https://connorjerzak.com/transcript-adversarial-2024/)* (@UT Dallas & National Chung Hsing University)
 -   [**Richard Johansson**](https://www.cse.chalmers.se/~richajo/) presents: *[Conceptualizing Treatment Leakage in Text-based Causal Inference](https://connorjerzak.com/transcript-leakage-video/)* (@NAACL)
