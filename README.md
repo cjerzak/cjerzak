@@ -65,7 +65,8 @@ We welcome students at every stage to engage with projects—from motivated high
 -   [**Connor Jerzak**](https://connorjerzak.com/) presents: *[Selecting Optimal Candidate Profiles in Adversarial Environments](https://connorjerzak.com/transcript-adversarial-2024/)* (@UT Dallas & National Chung Hsing University)
 -   [**Richard Johansson**](https://www.cse.chalmers.se/~richajo/) presents: *[Conceptualizing Treatment Leakage in Text-based Causal Inference](https://connorjerzak.com/transcript-leakage-video/)* (@NAACL)
 -   [**Satiyabooshan Murugaboopathy**](https://www.linkedin.com/in/msatiya/?originalSubdomain=de) presents: *[Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?](https://aidevlab.org/transcript-platonic/)*
--   [**Kazuki Sakamoto**](https://www.linkedin.com/in/kazukisakamoto/) presents: *[A Scoping Review of Earth Observation and Machine Learning for Causal Inference](https://connorjerzak.com/transcript-a-scoping-review-pci/)*
+-  [**Satiyabooshan Murugaboopathy**](https://www.linkedin.com/in/msatiya/?originalSubdomain=de) presents: *[Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?](https://aidevlab.org/transcript-platonic/)*
+-   [**Markus Pettersson**](https://www.linkedin.com/in/pettersson-markus/) presents: *[Debiasing ML Predictions for Causal Inference Without Additional Ground Truth Data](https://www.youtube.com/watch?v=jE4glnPmOuY)*
 -   [**Fucheng Warren Zhu**](https://www.warrenzhu.com/) presents: [*Optimizing Multi-Scale Representations to Detect Effect Heterogeneity Using EO and Computer Vision*](https://connorjerzak.com/transcript-encoding-multi-level-dynamics-in-effect-heterogeneity-estimation/)
 
 ## Papers (Selected) <a id="papers"></a>
