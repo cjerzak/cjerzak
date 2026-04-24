@@ -40,8 +40,6 @@ We welcome students at every stage to engage with projects—from motivated high
   <img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book_dark.png#gh-dark-mode-only" alt="Workflow diagram – dark" width="200">
 </a>
 
-## Past and Present Student Co-authors or Advisees on GitHub  <a id="students"></a>
-
 ## Past and Present Student Co-authors or Advisees on GitHub <a id="students"></a>
 | | |
 |---|---|
