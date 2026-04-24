@@ -48,7 +48,7 @@ We welcome students at every stage to engage with projects—from motivated high
 | [SayedMorteza Malaekeh](https://github.com/SMalaekeh/) | [Nicolas Audinet de Pieuchon](https://github.com/nicaudinet/) |
 | [Kazuki Sakamoto](https://github.com/ksakamoto09) | [Ritwik Vashistha](https://github.com/ritwikvashistha) |
 | [Fucheng Warren Zhu](https://github.com/WarrenZhu050413) | [Priyanshi Chandra](https://github.com/PriyanshiChandra) |
-| [Aniket Kamat](https://github.com/aniketkamat) | [Rishi Hazra](https://github.com/RishiHazra) |
+| [Aniket Kamat](https://github.com/aniketkamat) | [Rishi Hazra](https://github.com/rishihazra1) |
 
 <!-- 
 [<img src="https://connorjerzak.com/wp-content/uploads/2023/07/Screenshot-2023-07-17-at-11.50.01-AM.png" width="220" height="200">](https://www.utexas.edu/) [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2023/07/CJerzak.jpg?resize=768%2C806&ssl=1" width="300" height="200">](https://connorjerzak.com/)
