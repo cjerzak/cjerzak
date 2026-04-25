@@ -150,6 +150,27 @@ We welcome students at every stage to engage with projects—from motivated high
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Mat99999">
+        <img src="https://github.com/Mat99999.png?size=96" width="64" alt="Mattias Antar"/><br />
+        <sub><b>Mattias Antar</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/murfgubben">
+        <img src="https://github.com/murfgubben.png?size=96" width="64" alt="Johannes Fagerlind"/><br />
+        <sub><b>Johannes Fagerlind</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mackzoor">
+        <img src="https://github.com/mackzoor.png?size=96" width="64" alt="Markus Pettersson"/><br />
+        <sub><b>Markus Pettersson</b></sub>
+      </a>
+    </td>
+  </tr>
 </table>
 
 <!-- 
