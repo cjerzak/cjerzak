@@ -19,7 +19,7 @@ We welcome students at every stage to engage with projects—from motivated high
 [1.] Visiting Assistant Professor in the Department of Government at Harvard University (2024). <br>
 [2.] Postdoc, AI & Global Development Lab (2021-2022).
 
-*Methodological work:*  AI and global development, EO for causal inference, adversarial dynamics, computational text analysis. 
+*Methodological work:*  AI and global development, EO for causal inference, adversarial dynamics, text-based AI systems, multimodal computation. 
 
 *Substantive work:* Political economy, social movements, descriptive representation. 
 
