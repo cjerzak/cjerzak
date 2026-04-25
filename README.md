@@ -50,14 +50,88 @@ We welcome students at every stage to engage with projects—from motivated high
 | [Fucheng Warren Zhu](https://github.com/WarrenZhu050413) | [Priyanshi Chandra](https://github.com/PriyanshiChandra) |
 | [Aniket Kamat](https://github.com/aniketkamat) | [Rishi Hazra](https://github.com/rishihazra1) |
 
-|                          |                          |
-|:------------------------:|:------------------------:|
-| **[Cindy Conlin](https://github.com/cc50liu)** | **[Andrés Cruz](https://github.com/arcruz0)** |
-| **[Cem Mert Dallı](https://github.com/cmertdalli)** | **[Beniamino Green](https://github.com/beniaminogreen/)** |
-| **[SayedMorteza Malaekeh](https://github.com/SMalaekeh/)** | **[Nicolas Audinet de Pieuchon](https://github.com/nicaudinet/)** |
-| **[Kazuki Sakamoto](https://github.com/ksakamoto09)** | **[Ritwik Vashistha](https://github.com/ritwikvashistha)** |
-| **[Fucheng Warren Zhu](https://github.com/WarrenZhu050413)** | **[Priyanshi Chandra](https://github.com/PriyanshiChandra)** |
-| **[Aniket Kamat](https://github.com/aniketkamat)** | **[Rishi Hazra](https://github.com/rishihazra1)** |
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/cc50liu">
+        <img src="https://github.com/cc50liu.png?size=96" width="64" alt="Cindy Conlin"/><br />
+        <sub><b>Cindy Conlin</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arcruz0">
+        <img src="https://github.com/arcruz0.png?size=96" width="64" alt="Andrés Cruz"/><br />
+        <sub><b>Andrés Cruz</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cmertdalli">
+        <img src="https://github.com/cmertdalli.png?size=96" width="64" alt="Cem Mert Dallı"/><br />
+        <sub><b>Cem Mert Dallı</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/beniaminogreen">
+        <img src="https://github.com/beniaminogreen.png?size=96" width="64" alt="Beniamino Green"/><br />
+        <sub><b>Beniamino Green</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SMalaekeh">
+        <img src="https://github.com/SMalaekeh.png?size=96" width="64" alt="SayedMorteza Malaekeh"/><br />
+        <sub><b>SayedMorteza Malaekeh</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nicaudinet">
+        <img src="https://github.com/nicaudinet.png?size=96" width="64" alt="Nicolas Audinet de Pieuchon"/><br />
+        <sub><b>Nicolas Audinet de Pieuchon</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ksakamoto09">
+        <img src="https://github.com/ksakamoto09.png?size=96" width="64" alt="Kazuki Sakamoto"/><br />
+        <sub><b>Kazuki Sakamoto</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ritwikvashistha">
+        <img src="https://github.com/ritwikvashistha.png?size=96" width="64" alt="Ritwik Vashistha"/><br />
+        <sub><b>Ritwik Vashistha</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/WarrenZhu050413">
+        <img src="https://github.com/WarrenZhu050413.png?size=96" width="64" alt="Fucheng Warren Zhu"/><br />
+        <sub><b>Fucheng Warren Zhu</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PriyanshiChandra">
+        <img src="https://github.com/PriyanshiChandra.png?size=96" width="64" alt="Priyanshi Chandra"/><br />
+        <sub><b>Priyanshi Chandra</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/aniketkamat">
+        <img src="https://github.com/aniketkamat.png?size=96" width="64" alt="Aniket Kamat"/><br />
+        <sub><b>Aniket Kamat</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rishihazra1">
+        <img src="https://github.com/rishihazra1.png?size=96" width="64" alt="Rishi Hazra"/><br />
+        <sub><b>Rishi Hazra</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- 
 [<img src="https://connorjerzak.com/wp-content/uploads/2023/07/Screenshot-2023-07-17-at-11.50.01-AM.png" width="220" height="200">](https://www.utexas.edu/) [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2023/07/CJerzak.jpg?resize=768%2C806&ssl=1" width="300" height="200">](https://connorjerzak.com/)
