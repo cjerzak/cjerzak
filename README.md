@@ -69,6 +69,7 @@ We welcome students at every stage to engage with projects—from motivated high
       </a>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <a href="https://github.com/SMalaekeh">
@@ -95,6 +96,7 @@ We welcome students at every stage to engage with projects—from motivated high
       </a>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <a href="https://github.com/WarrenZhu050413">
@@ -118,6 +120,33 @@ We welcome students at every stage to engage with projects—from motivated high
       <a href="https://github.com/rishihazra1">
         <img src="https://github.com/rishihazra1.png?size=96" width="64" alt="Rishi Hazra"/><br />
         <sub><b>Rishi Hazra</b></sub>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sgbalter06">
+        <img src="https://github.com/sgbalter06.png?size=96" width="64" alt="Samuel G. Balter"/><br />
+        <sub><b>Samuel G. Balter</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MyTran-GitHub">
+        <img src="https://github.com/MyTran-GitHub.png?size=96" width="64" alt="My Tran"/><br />
+        <sub><b>My Tran</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/deankuo">
+        <img src="https://github.com/deankuo.png?size=96" width="64" alt="Peng-Ting Kuo"/><br />
+        <sub><b>Peng-Ting Kuo</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/f20180354">
+        <img src="https://github.com/f20180354.png?size=96" width="64" alt="Omatharv Vaidya"/><br />
+        <sub><b>Omatharv Vaidya</b></sub>
       </a>
     </td>
   </tr>
