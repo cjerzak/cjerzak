@@ -28,7 +28,7 @@ We welcome students at every stage to engage with projects—from motivated high
 [[Team]](https://connorjerzak.com/collaborators/) [[Students]](https://connorjerzak.com/students/) 
 [[Google Scholar]](https://scholar.google.com/citations?user=8mpaH74AAAAJ&hl=en) [[UT Profile]](https://liberalarts.utexas.edu/government/faculty/ctj583) 
 
-[[PlanetaryCausalInference.org]](https://planetarycausalinference.org/) [[AI & Global Dev Lab GitHub]](https://github.com/AIandGlobalDevelopmentLab/) [[neuristemic.ai]](https://neuristemic.ai/) 
+[[PlanetaryCausalInference.org]](https://planetarycausalinference.org/) [[AI & Global Dev Lab GitHub]](https://github.com/AIandGlobalDevelopmentLab/) [[Neuristemic.ai]](https://neuristemic.ai/) 
 
 [[Video Tutorials]](https://connorjerzak.com/transcripts/) [[Data Assets]](https://connorjerzak.com/data/)
 
