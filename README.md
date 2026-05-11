@@ -30,7 +30,7 @@ We welcome students at every stage to engage with projects—from motivated high
 
 [[PlanetaryCausalInference.org]](https://planetarycausalinference.org/) [[AI & Global Dev Lab GitHub]](https://github.com/AIandGlobalDevelopmentLab/) [[neuristemic.ai]](https://neuristemic.ai/) 
 
-[[YouTube Tutorials]](https://connorjerzak.com/videos) [[Data Assets]](https://connorjerzak.com/data/)
+[[Video Tutorials]](https://connorjerzak.com/transcripts/) [[Data Assets]](https://connorjerzak.com/data/)
 
 <a href="https://planetarycausalinference.org/book-launch/#gh-light-mode-only">
   <img src="https://planetarycausalinference.org/wp-content/uploads/2025/11/PCI_book.png#gh-light-mode-only" alt="Workflow diagram – light" width="200">
