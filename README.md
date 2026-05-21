@@ -57,6 +57,12 @@ We welcome students at every stage to engage with projects—from motivated high
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/Shashankc2">
+        <img src="https://github.com/Shashankc2.png?size=96" width="64" alt="Shashank Chathapuram"/><br />
+        <sub><b>Shashank Chathapuram</b></sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/cmertdalli">
         <img src="https://github.com/cmertdalli.png?size=96" width="64" alt="Cem Mert Dallı"/><br />
         <sub><b>Cem Mert Dallı</b></sub>
