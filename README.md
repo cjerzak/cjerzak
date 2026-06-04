@@ -185,18 +185,20 @@ We welcome students at every stage to engage with projects—from motivated high
 
 ## Recent Team Tutorials
 
--   [**Nicolas Audinet de Pieuchon**](https://nicaudinet.github.io/) presents: [*Benchmarking Debiasing Methods for LLM-based Parameter Estimates*](https://connorjerzak.com/transcript-benchmarking-debiasing-methods/)
--   [**Nicolas Audinet de Pieuchon**](https://nicaudinet.github.io/) presents: [*Can Large Language Models (or Humans) Disentangle Text?*](https://connorjerzak.com/transcript-disentangle-video/)
--   [**Isaac Corley**](https://isaac.earth/) presents a guest lecture: [*Best Practices for Cloud-Native GeoAI*](https://aidevlab.org/cloud-geo-ai/)
+-   [**Nicolas Audinet de Pieuchon**](https://nicaudinet.github.io/) presents: [*Benchmarking Debiasing Methods for LLM-based Parameter Estimates*](https://connorjerzak.com/transcript-benchmarking-debiasing-methods/) (@EMNLP)
+-   [**Nicolas Audinet de Pieuchon**](https://nicaudinet.github.io/) presents: [*Can Large Language Models (or Humans) Disentangle Text?*](https://connorjerzak.com/transcript-disentangle-video/) (@NLP+CSS)
+-   [**Sam Balter**](https://www.linkedin.com/in/sam-balter-6aa26a321/) presents: [*Multiplication in Multimodal LLMs: Computation with Text, Image, and Audio Inputs*](https://neuristemic.ai/transcript-multimodal-multiplication/) (@ACL)
+-   [**Isaac Corley**](https://isaac.earth/) presents a guest lecture: [*Best Practices for Cloud-Native GeoAI*](https://aidevlab.org/cloud-geo-ai/) (@Gov 355M)
 -   [**Adel Daoud**](https://adeldaoud.com/) presents: [*A First Course in Planetary Causal Inference: Confounding*](https://planetarycausalinference.org/transcript-pci-tutorial-2025/) (@IC2S2 2025)
 -   [**Adel Daoud**](https://adeldaoud.com/) presents: [*Planetary Causal Inference*: Overview](https://planetarycausalinference.org/transcript-pci-seminar-yale/) (@Yale)
--  [**Connor Jerzak**](https://connorjerzak.com/) presents: [*Fast Rerandomization Using Accelerated Computing*](https://connorjerzak.com/transcript-fast-rerandomization/) 
+-  [**Connor Jerzak**](https://connorjerzak.com/) presents: [*Fast Rerandomization Using Accelerated Computing*](https://connorjerzak.com/transcript-fast-rerandomization/) (@SoftwareX)
 -   [**Connor Jerzak**](https://connorjerzak.com/) presents: [*Seeing Like a Satellite While Learning Across Scales: Remote Audits + Multi-Scale Optimization for Heterogeneity*](https://planetarycausalinference.org/transcript-seeing-like-a-satellite/) (@Columbia)
+-   [**Connor Jerzak**](https://connorjerzak.com/) presents: *[MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification](https://connorjerzak.com/transcript-for-minimax-learning-icml-2026/)* (@ICML)
 -   [**Connor Jerzak**](https://connorjerzak.com/) presents: *[MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification](https://connorjerzak.com/transcript-adversarial-2024/)* (@UT Dallas & National Chung Hsing University)
 -   [**Richard Johansson**](https://www.cse.chalmers.se/~richajo/) presents: *[Conceptualizing Treatment Leakage in Text-based Causal Inference](https://connorjerzak.com/transcript-leakage-video/)* (@NAACL)
 -  [**Satiyabooshan Murugaboopathy**](https://www.linkedin.com/in/msatiya/?originalSubdomain=de) presents: *[Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?](https://aidevlab.org/transcript-platonic/)*
--   [**Markus Pettersson**](https://www.linkedin.com/in/pettersson-markus/) presents: *[Debiasing ML Predictions for Causal Inference Without Additional Ground Truth Data](https://www.youtube.com/watch?v=jE4glnPmOuY)*
--   [**Fucheng Warren Zhu**](https://www.warrenzhu.com/) presents: [*Optimizing Multi-Scale Representations to Detect Effect Heterogeneity Using EO and Computer Vision*](https://connorjerzak.com/transcript-encoding-multi-level-dynamics-in-effect-heterogeneity-estimation/)
+-   [**Markus Pettersson**](https://www.linkedin.com/in/pettersson-markus/) presents: *[Debiasing ML Predictions for Causal Inference Without Additional Ground Truth Data](https://www.youtube.com/watch?v=jE4glnPmOuY)* (@AAAI)
+-   [**Fucheng Warren Zhu**](https://www.warrenzhu.com/) presents: [*Optimizing Multi-Scale Representations to Detect Effect Heterogeneity Using EO and Computer Vision*](https://connorjerzak.com/transcript-encoding-multi-level-dynamics-in-effect-heterogeneity-estimation/) (@CLeaR)
 
 ## Papers (Selected) <a id="papers"></a>
 
