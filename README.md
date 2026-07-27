@@ -258,7 +258,7 @@ We welcome students at every stage to engage with projects—from motivated high
 
 * **The Composition of Descriptive Representation (APSR 2024)** – John Gerring, Connor T. Jerzak, Erzen Öncel.  _Analyzes how descriptive representation is composed and which demographic attributes drive voters’ preferences._  [[PDF]](https://www.cambridge.org/core/journals/american-political-science-review/article/composition-of-descriptive-representation/7EAEA1CA4C553AB9D76054D1FA9C0840) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/CompositionBib.txt) [[Code]](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software) [![GitHub Repo stars](https://img.shields.io/github/stars/cjerzak/DescriptiveRepresentationCalculator-software?style=social)](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software)
 
-* **The Politics of Conscription in Northern Ireland, 1938–1946 (Preprint)** – Connor T. Jerzak. *Studies how debates over military conscription in Northern Ireland reshaped political membership and citizenship.* [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345789) [[.bib]](https://connorjerzak.com/wp-content/uploads/2026/07/Conscription.txt)
+* **The Politics of Conscription in Northern Ireland, 1938–1946** – Connor T. Jerzak. *Studies how debates over military conscription in Northern Ireland reshaped political membership and citizenship.* [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345789) [[.bib]](https://connorjerzak.com/wp-content/uploads/2026/07/Conscription.txt)
 
 #### Political Economy
 
