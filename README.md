@@ -197,6 +197,7 @@ We welcome students at every stage to engage with projects—from motivated high
 -   [**Connor Jerzak**](https://connorjerzak.com/) presents: *[MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification](https://connorjerzak.com/transcript-adversarial-2024/)* (@UT Dallas & National Chung Hsing University)
 -   [**Richard Johansson**](https://www.cse.chalmers.se/~richajo/) presents: *[Conceptualizing Treatment Leakage in Text-based Causal Inference](https://connorjerzak.com/transcript-leakage-video/)* (@NAACL)
 -  [**Satiyabooshan Murugaboopathy**](https://www.linkedin.com/in/msatiya/?originalSubdomain=de) presents: *[Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?](https://aidevlab.org/transcript-platonic/)* (@ICSC)
+-  [**Satiyabooshan Murugaboopathy**](https://www.linkedin.com/in/msatiya/?originalSubdomain=de) presents: *[Statistical Self-Correction for LLM Reasoning Evaluation Using PPI & DSL](https://www.youtube.com/watch?v=lwo4D4hKZLQ)* 
 -   [**Markus Pettersson**](https://www.linkedin.com/in/pettersson-markus/) presents: *[Debiasing ML Predictions for Causal Inference Without Additional Ground Truth Data](https://www.youtube.com/watch?v=jE4glnPmOuY)* (@AAAI)
 -   [**Fucheng Warren Zhu**](https://www.warrenzhu.com/) presents: [*Optimizing Multi-Scale Representations to Detect Effect Heterogeneity Using EO and Computer Vision*](https://connorjerzak.com/transcript-encoding-multi-level-dynamics-in-effect-heterogeneity-estimation/) (@CLeaR)
 
