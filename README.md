@@ -267,7 +267,7 @@ We welcome students at every stage to engage with projects—from motivated high
 
 #### Social Movements
 
-* **Football fandom in Egypt (Routledge Handbook of Sport in the Middle East 2022)** – Connor T. Jerzak.  _Examines the intersection of football fandom and social identity in Egypt._  [[PDF]](https://connorjerzak.com/wp-content/uploads/2022/06/Jerzak_FootballFandomInEgypt.pdf) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/FandomBib.txt)
+* **Football fandom in Egypt (Routledge Handbook of Sport in the Middle East 2022)** – Connor T. Jerzak.  _Examines the intersection of football fandom and social identity in Egypt._  [[PDF]](https://connorjerzak.com/wp-content/uploads/2022/06/Jerzak_FootballFandomInEgypt.pdf) [[Data]](https://huggingface.co/datasets/cjerzak/UltrasTexts_EgyptianIndependent) [[.bib]](https://connorjerzak.com/wp-content/uploads/2024/07/FandomBib.txt)
 
  <!-- 
 [<img src="https://i0.wp.com/connorjerzak.com/wp-content/uploads/2024/08/EO_WorkflowVizV52.png?w=1275&ssl=1" style="transform: scale(1);">](https://connorjerzak.com/gci-overview/) 
