@@ -184,7 +184,7 @@ We welcome students at every stage to engage with projects—from motivated high
 -->
 
 ## Recent Team Tutorials
-[**Nicolas Audinet de Pieuchon**](https://nicaudinet.github.io/) presents: [*Benchmarking Debiasing Methods for LLM-based Parameter Estimates*](https://connorjerzak.com/transcript-benchmarking-debiasing-methods/) ([@EMNLP](https://2025.emnlp.org/))
+-   [**Nicolas Audinet de Pieuchon**](https://nicaudinet.github.io/) presents: [*Benchmarking Debiasing Methods for LLM-based Parameter Estimates*](https://connorjerzak.com/transcript-benchmarking-debiasing-methods/) ([@EMNLP](https://2025.emnlp.org/))
 -   [**Nicolas Audinet de Pieuchon**](https://nicaudinet.github.io/) presents: [*Can Large Language Models (or Humans) Disentangle Text?*](https://connorjerzak.com/transcript-disentangle-video/) ([@NLP+CSS](https://aclanthology.org/events/nlpcss-2024/))
 -   [**Sam Balter**](https://www.linkedin.com/in/sam-balter-6aa26a321/) presents: [*Multiplication in Multimodal LLMs: Computation with Text, Image, and Audio Inputs*](https://neuristemic.ai/transcript-multimodal-multiplication/) ([@ACL](https://2026.aclweb.org/))
 -   [**Isaac Corley**](https://isaac.earth/) presents a guest lecture: [*Best Practices for Cloud-Native GeoAI*](https://aidevlab.org/cloud-geo-ai/) ([@Gov 355M](https://connorjerzak.com/AIPCSS-syllabus))
